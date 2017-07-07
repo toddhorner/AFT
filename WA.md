@@ -59,7 +59,6 @@
 3. [They also track compliance](http://www.commerce.wa.gov/serving-communities/growth-management/submitting-materials/):
 
 >Counties and cities must be in compliance with the requirements of the GMA, including the periodic update requirements, to be eligible for grants and loans from certain state infrastructure programs. To help applicants and funding programs implement this requirement, Growth Management Services maintains a list of local governments that are in compliance. When you take legislative action that meets your update requirement, make sure you send the adopting ordinance or legislation to Commerce, clearly identifying it as part of the update. This will allow Commerce to keep information about your city or county complete and up to date.
-
 4. [A PDF of community compliance status is publicly available](https://deptofcommerce.app.box.com/s/sb93d6i4jn7u9j91wknr7dghxffrabk4)
 
 
@@ -75,7 +74,6 @@
 >[...]
 >
 > 2.  Reduce sprawl. Reduce the inappropriate conversion of undeveloped land into sprawling, low-density development.”
-
 3. Only certain counties are required to adopt comprehensive plans under RCW 36.70A.040 (see local planning items).
 
 
@@ -112,8 +110,6 @@
 
 
 >Each county that is required or chooses to plan under RCW  36.70A.040 shall designate an urban growth area or areas within which urban growth shall be encouraged and outside of which growth can occur only if it is not urban in nature
-
-
 3. Protection of “critical area” (e.g. farmland), is closely linked with designation of urban growth areas. According to the Puget Sound Growth Management Hearings Board:
 
 
