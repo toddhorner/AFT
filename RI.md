@@ -6,7 +6,9 @@
 
 1. <span style="color:green">**YES**</span>
 2. Rhode Island Division of Planning
-	- Within Dept. of Administration
+	-	Within Dept. of Administration
+		
+		![Planning](http://www.planning.ri.gov/img/2017/org%20chart.jpg)
 3. RI State Planning Council
 	- Adopts State Guide Plan [(RIGL 42-11-10)](http://webserver.rilin.state.ri.us/Statutes/TITLE42/42-11/42-11-10.HTM)
 	- Reviews proposals for state projects, assessing consistency with State Guide Plan
@@ -24,8 +26,7 @@
 3. Rhode Island Food Strategy
 	* Developed under the leadership of the state's Director of Food Strategy, a position created and staffed through the Governor's Office. The position is made possible through philanthropic support, most notably by the Henry P. Kendall Foundation
 	* The Strategy encompasses production, economic development, and health. It recognizes the importance of farmland preservation:
-
-> As discussed, access to land and reasonably-sized step-up facilities is cited as one of the biggest impediments to  the  growth  of  production  in  Rhode  Island.  This strategy supports the development and expansion of programs to preserve working landscapes and make them more accessible to all Rhode Islanders – for agriculture, aquaculture, fisheries, and other forms of food production and processing. (Rhode Island Food Strategy, 10)
+		> As discussed, access to land and reasonably-sized step-up facilities is cited as one of the biggest impediments to  the  growth  of  production  in  Rhode  Island.  This strategy supports the development and expansion of programs to preserve working landscapes and make them more accessible to all Rhode Islanders – for agriculture, aquaculture, fisheries, and other forms of food production and processing. (Rhode Island Food Strategy, 10)
 
 
 #### State Planning Goals Relate to Agriculture
