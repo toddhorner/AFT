@@ -102,6 +102,7 @@
 1. <span style="color:green">**YES**</span>
 2. See above.
 3. [According to WA Growth Management Services:](http://www.commerce.wa.gov/serving-communities/growth-management/growth-management-topics/natural-resource-lands/)
+
 >All jurisdictions in Washington state need to determine where natural resource industries, including forestry, agricultural, mining, and fisheries industries, can productively operate, and use land-use controls to designate and conserve the necessary lands and to avoid conflicts with these industries from other land uses.
 
 #### Require localities to support compact/efficient development in designated growth areas
@@ -109,8 +110,11 @@
 1. <span style="color:green">**YES**</span>
 2. [RCW 36.70A.110.1](http://app.leg.wa.gov/rcw/default.aspx?cite=36.70a.110):
 
+
 >Each county that is required or chooses to plan under RCW  36.70A.040 shall designate an urban growth area or areas within which urban growth shall be encouraged and outside of which growth can occur only if it is not urban in nature
 
+
 3. Protection of “critical area” (e.g. farmland), is closely linked with designation of urban growth areas. According to the Puget Sound Growth Management Hearings Board:
+
 
 >Two of the Act's most powerful organizing concepts to combat sprawl are the identification and conservation of resource lands and the protection of critical areas (see RCW 36.70A.060 and .170) and the subsequent setting of urban growth areas (UGAs) to accommodate urban growth (see RCW 36.70A.110). It is significant that the Act required cities and counties to identify and conserve resource lands and to identify and protect critical areas before the date that IUGAs had to be adopted. This sequence illustrates a fundamental axiom of growth management: "the land speaks first." Only after a county's agricultural, forestry and mineral resource lands have been identified and actions taken to conserve them, and its critical areas, including aquifers, are identified and protected, is it then possible and appropriate to determine where, on the remaining land, urban growth should be directed pursuant to RCW 36.70A.110.30.
