@@ -35,8 +35,10 @@
 ### Local Planning
 
 #### Requires localities to develop comprehensive plans
-1. **NO**
-2.
+1.  **NO**
+2.  Under NH RSA 674:1 I, a municipal planning board must *"prepare and amend from time to time a master plan to guide the development of the municipality."* A municipality, however, need not have a planning board [(NH RSA 673:1 I)](http://www.gencourt.state.nh.us/rsa/html/LXIV/673/673-1.htm). It *may* establish a planning board, if it chooses to do so.
+3. See also, the Nashua Regional Planning Commission's publication [*The Master Plan in New Hampshire*](http://www.nashuarpc.org/files/5814/2988/4524/The_Master_Plan_in_NH_Final_2013-10-17.pdf), which states:
+    >In New Hampshire, a master plan is *not* a legal document, and it is not required under the law
 
 
 
