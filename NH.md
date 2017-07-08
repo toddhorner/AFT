@@ -15,9 +15,12 @@
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
 1. **YES**
-2. According to [NH RSA:3-a](http://www.gencourt.state.nh.us/rsa/html/LXIV/673/673-3-a.htm), the new members of local planning or zoning boards:
+2.  According to [NH RSA:3-a](http://www.gencourt.state.nh.us/rsa/html/LXIV/673/673-3-a.htm), the new members of local planning or zoning boards:
 
     >may complete training offered by the office of energy and planning. The office of energy and planning may provide this training, which may be designed in a variety of formats including, but not limited to, web-based, distance learning, traditional classroom style, or self study.
+
+    Note that training is note *mandatory*.
+
 
 
 #### State tracking of local plans
