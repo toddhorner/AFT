@@ -5,7 +5,9 @@
 #### State Planning Capacity
 
 1.  <span style="color:green">**YES**</span>
-2. [The mission of the Planning Division of the Office of Energy and Planning](https://www.nh.gov/oep/planning/index.htm) is to provide *"programs, services, and resources to assist decision makers on issues pertaining to development, land protection, and community planning to guide the State's future growth through programs, public policy development, education and outreach, research, and partnership building."*
+2. [The mission of the Planning Division of the Office of Energy and Planning](https://www.nh.gov/oep/planning/index.htm) is to provide
+
+    >programs, services, and resources to assist decision makers on issues pertaining to development, land protection, and community planning to guide the State's future growth through programs, public policy development, education and outreach, research, and partnership building.
 
 
 ####  State Plan for Agriculture
@@ -19,7 +21,7 @@
 
     >may complete training offered by the office of energy and planning. The office of energy and planning may provide this training, which may be designed in a variety of formats including, but not limited to, web-based, distance learning, traditional classroom style, or self study.
 
-    Note that training is note *mandatory*.
+    Note that training is not *mandatory*.
 
 
 
