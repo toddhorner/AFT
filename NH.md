@@ -16,14 +16,13 @@
 2.  [RSA 9-A](http://www.gencourt.state.nh.us/rsa/html/I/9-A/9-A-1.htm) mandates the creation of a state development plan. Statute requires that the plan include a:
     >natural resources section which identifies trends in land protection, open space, farm land preservation and protection, and proposes policies and actions necessary at the state level to protect those resources which are perceived to be of statewide significance.
 
-3.  Statute requires that the state development plan be updated every four years, but the most recent version available online is dated year 2000. I need to follow up with NH OEM regarding status of the state plan. <tel:6032712155>
-3.  [NH RSA 675:17](http://www.gencourt.state.nh.us/rsa/html/LXIV/674/674-17.htm) states that zoning ordinances "shall be designed:"
+3.  Statute requires that the state development plan be updated every four years, but the most recent version available online is dated year 2000. I need to follow up with NH OEM regarding status of the state plan. Call at [(603) 271-2155](<tel:6032712155>).
+
+4.  [NH RSA 675:17](http://www.gencourt.state.nh.us/rsa/html/LXIV/674/674-17.htm) states that zoning ordinances "shall be designed:"
     > To encourage the preservation of agricultural lands and buildings and the agricultural operations described in RSA 21:34-a supporting the agricultural lands and buildings;
 
-4.  NH "Right to Farm" statutes recognize the benefits of agriculture, but aim primarily at *restricting* zoning ordinance that burdens agriculture:
-    >Agriculture makes vital and significant contributions to the food supply, the economy, the environment and the aesthetic features of the state of New Hampshire, and the tradition of using the land resource for agricultural production is an essential factor in providing for the favorable quality of life in the state. Natural features, terrain and the pattern of geography of the state frequently place agricultural land in close proximity to other forms of development and commonly in small parcels. Agricultural activities are a beneficial and worthwhile feature of the New Hampshire landscape. Agritourism, as defined in RSA 21:34-a, is undertaken by farmers to contribute to both the economic viability and the long-term sustainability of the primary agricultural activities of New Hampshire farms. Agricultural activities and agritourism shall not be unreasonably limited by use of municipal planning and zoning powers or by the unreasonable interpretation of such powers
-
-    [NH RSA 672:1](http://www.gencourt.state.nh.us/rsa/html/LXIV/672/672-mrg.htm)
+5.  NH "Right to Farm" statutes recognize the benefits of agriculture, but aim primarily at *restricting* zoning ordinance that burdens agriculture:
+    >Agriculture makes vital and significant contributions to the food supply, the economy, the environment and the aesthetic features of the state of New Hampshire, and the tradition of using the land resource for agricultural production is an essential factor in providing for the favorable quality of life in the state. Natural features, terrain and the pattern of geography of the state frequently place agricultural land in close proximity to other forms of development and commonly in small parcels. Agricultural activities are a beneficial and worthwhile feature of the New Hampshire landscape. Agritourism, as defined in RSA 21:34-a, is undertaken by farmers to contribute to both the economic viability and the long-term sustainability of the primary agricultural activities of New Hampshire farms. Agricultural activities and agritourism shall not be unreasonably limited by use of municipal planning and zoning powers or by the unreasonable interpretation of such powers [(NH RSA 672:1)](http://www.gencourt.state.nh.us/rsa/html/LXIV/672/672-mrg.htm)
 
 
 
