@@ -19,7 +19,7 @@
 
 ####  State Plan for Agriculture
 1. **NO**
-2. [The State Development Plan](https://www.nh.gov/oep/planning/resources/documents/state-development-plan.pdf) contains a section on agriculture, but no material regarding farmland preservation.
+2. [The State Development Plan](https://www.nh.gov/oep/planning/resources/documents/state-development-plan.pdf) contains a section on agriculture, but no material regarding farmland preservation. Also, need to check in with the NH Office of Energy and Management to see whether a more recent version of the plan exists. Updates are mandated by statute, but the latest version available online is from 2000.
 
 #### State Planning Goals Relate to Agriculture
 1.  **YES**
