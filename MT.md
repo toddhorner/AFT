@@ -5,7 +5,7 @@
 #### State Planning Capacity
 
 **YES**
-1.
+1. The [Community Development Division](http://comdev.mt.gov/) in the Department of Commerce is the state's community development and planning agency.
 
 ####  State Plan for Agriculture
 
@@ -25,6 +25,8 @@
 	>*	Resource library
 	>*	GIS mapping
 
+3. CTAP has published guides regarding [growth management](http://comdev.mt.gov/Portals/95/shared/CTAP/docs/CTAPPublications/CTAPPublications/GrwthPlcyResourceBk.pdf) and serving [as a planning board member](http://comdev.mt.gov/Portals/95/shared/CTAP/docs/CTAPPublications/CTAPPublications/PLBoardHandbk.pdf).
+
 
 #### State tracking of local plans
 
@@ -40,6 +42,11 @@
 ### Local Planning
 
 #### Requires localities to develop comprehensive plans
+
+**NO**
+
+1. In Montana, comprehensive plans are referred to as growth management policies, which counties and municipalities are authorized to adopt [(MT MCA 76-1-601)](http://leg.mt.gov/bills/mca/76/1/76-1-601.htm). According to the MT Community Development Division
+	>growth policies are not required by Montana statute, unless a local government wishes to adopt or amend municipal or county zoning regulations. 
 
 #### Require localities to address agricultural issues in their local plans
 
