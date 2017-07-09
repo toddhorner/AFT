@@ -4,6 +4,9 @@
 
 #### State Planning Capacity
 
+**YES**
+1.	
+
 ####  State Plan for Agriculture
 
 #### State Planning Goals Relate to Agriculture
@@ -11,8 +14,17 @@
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
 **YES**
-1.	The [Community Technical Assistance Program](http://comdev.mt.gov/Programs/CTAP/Purpose), housed in the Community Development Division of the Department of Commerce, provides technical assistance
+1.	The [Community Technical Assistance Program](http://comdev.mt.gov/Programs/CTAP/Purpose) (CTAP), housed in the Community Development Division of the Department of Commerce, provides technical assistance
 	>to encourage planning and sustainable development in Montana communities by working with local governments, planning departments, private developers, non-profit organizations, and the public. CTAP assists communities statewide through research and by providing both technical and legal guidance, education, and training.
+
+2.	CTAP can share expertise on a long range community planning, planning best practices, zoning regulations and administration. They can help by providing:
+	>*	Direct assistance via phone, email, & in person
+	>*	Review of and guidance on draft engineering, planning, and regulatory documents
+	>*	Creation of model documents and planning resource publications for use statewide
+	>*	On-site training workshops
+	>*	Resource library
+	>*	GIS mapping
+
 
 #### State tracking of local plans
 
