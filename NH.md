@@ -19,6 +19,7 @@
 
 ####  State Plan for Agriculture
 1. **NO**
+2. [The State Development Plan](https://www.nh.gov/oep/planning/resources/documents/state-development-plan.pdf) contains a section on agriculture, but no material regarding farmland preservation.
 
 #### State Planning Goals Relate to Agriculture
 1.  **YES**
@@ -44,7 +45,14 @@
     Note that training is not *mandatory*.
 
 3.  The Office of Energy and Management has [organized planning and zoning conferences](https://www.nh.gov/oep/planning/resources/conferences/index.htm) since 1994.
-4.  
+4.  Online literature doesn't mention any *regular* funding sources for municipal comprehensive planning. Over the last decade, however, several competitive grant opportunities have been made available to NH towns and cities
+    * **Community Challenge Planning Grant:** Funded by a grant from HUD, a consortium of state agencies administered the program. It
+      >provided 37 competitive matching grants to municipalities interested in changing land use regulations to fulfill the visions of their community master plans and to help enhance local economic, environmental and social sustainability. Projects funded included business corridor improvements, downtown form-based code initiatives, pedestrian and bicycling plan development, mixed-use zoning and low-impact development guidelines, workforce housing ordinance development, energy efficiency initiatives, village center visioning, and traditional neighborhood overlay zone initiatives. [(New Hampshire Council on Resources and Development)](https://www.nh.gov/oep/planning/programs/cord/documents/smart-growth.pdf)
+
+    * **Municipal Technical Assistance Grant Program:** Begun in 2016, the program was formed by a partnership of state agencies, Plan New Hampshire, NGO's and business organizations. It awards competitive matching grants to municipalities
+      >to adapt land use regulations and policies to encourage a range of housing choices, mixed-use development, form-based codes, energy efficiency measures, and pedestrian and transit-oriented development projects. [(New Hampshire Council on Resources and Development)](https://www.nh.gov/oep/planning/programs/cord/documents/smart-growth.pdf)
+
+
 
 
 
