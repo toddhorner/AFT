@@ -12,6 +12,16 @@
 ####  State Plan for Agriculture
 
 #### State Planning Goals Relate to Agriculture
+1.  **YES**
+2.  [NH RSA 675:17](http://www.gencourt.state.nh.us/rsa/html/LXIV/674/674-17.htm) states that zoning ordinances "shall be designed:"
+    > To encourage the preservation of agricultural lands and buildings and the agricultural operations described in RSA 21:34-a supporting the agricultural lands and buildings;
+
+3.  NH "Right to Farm" statutes recognize the benefits of agriculture, but aim primarily at *restricting* zoning ordinance that burdens agriculture:
+    >Agriculture makes vital and significant contributions to the food supply, the economy, the environment and the aesthetic features of the state of New Hampshire, and the tradition of using the land resource for agricultural production is an essential factor in providing for the favorable quality of life in the state. Natural features, terrain and the pattern of geography of the state frequently place agricultural land in close proximity to other forms of development and commonly in small parcels. Agricultural activities are a beneficial and worthwhile feature of the New Hampshire landscape. Agritourism, as defined in RSA 21:34-a, is undertaken by farmers to contribute to both the economic viability and the long-term sustainability of the primary agricultural activities of New Hampshire farms. Agricultural activities and agritourism shall not be unreasonably limited by use of municipal planning and zoning powers or by the unreasonable interpretation of such powers
+
+    [NH RSA 672:1](http://www.gencourt.state.nh.us/rsa/html/LXIV/672/672-mrg.htm)
+
+
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
@@ -30,6 +40,10 @@
 
 #### State planning goals related to compact development/smart growth
 
+1.  **YES**
+2. NH RSA 674:2 state that the:
+    >The purpose of the master plan is to set down as clearly and practically as possible the best and most appropriate future development of the area under the jurisdiction of the planning board, to aid the board in designing ordinances that result in preserving and enhancing the unique quality of life and culture of New Hampshire, and to guide the board in the performance of its other duties in a manner that **achieves the principles of smart growth, sound planning, and wise resource protection**. (emphasis added)Ó
+
 ---
 
 ### Local Planning
@@ -44,8 +58,13 @@
 
 #### Require localities to address agricultural issues in their local plans
 
+1. **NO**
+2.
+
 
 #### Require localities to protect agricultural resources in their local plans
+
+2. **NO**
 
 
 #### Require localities to support compact/efficient development in designated growth areas
