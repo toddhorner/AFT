@@ -8,6 +8,14 @@
 2.  [The mission of the Planning Division of the Office of Energy and Planning](https://www.nh.gov/oep/planning/index.htm) is to provide
     >programs, services, and resources to assist decision makers on issues pertaining to development, land protection, and community planning to guide the State's future growth through programs, public policy development, education and outreach, research, and partnership building.
 
+3.  [RSA 62-C](http://www.gencourt.state.nh.us/rsa/html/xii/162-c/162-c-mrg.htm) established the Council on Resources and Development. Various state commissioners, including that of the Office of Energy and Planning, comprise its membership. Included among its duties are to:
+    >  I. Consult upon common problems in the fields of environmental protection, natural resources, and growth management including the encouragement of smart growth;
+
+    The Council is an inter-agency body that conducts research and sometime negotiates differences between state departments.
+
+    [Section 9-B:6](http://www.gencourt.state.nh.us/rsa/html/I/9-B/9-B-6.htm) requires that, every four years, the Council prepares a report to the General Court and the Governor. The report includes a section that describes:
+    >Progress by the state agencies represented on the council in coordinating the activities to encourage smart growth.
+
 
 ####  State Plan for Agriculture
 
