@@ -41,8 +41,19 @@
 #### State planning goals related to compact development/smart growth
 
 1.  **YES**
-2. NH RSA 674:2 state that the:
-    >The purpose of the master plan is to set down as clearly and practically as possible the best and most appropriate future development of the area under the jurisdiction of the planning board, to aid the board in designing ordinances that result in preserving and enhancing the unique quality of life and culture of New Hampshire, and to guide the board in the performance of its other duties in a manner that **achieves the principles of smart growth, sound planning, and wise resource protection**. (emphasis added)Ó
+2.  [Chapter 9-B](http://www.gencourt.state.nh.us/rsa/html/I/9-B/9-B-mrg.htm) of NH State Statute, entitled *STATE ECONOMIC GROWTH, RESOURCE PROTECTION, AND PLANNING POLICY*, lays out multiple findings and goals related to smarth growth. For example, section 9-B:1, states that:
+    > II. Economic development is essential to the well-being and prosperity of our citizens. However, when haphazard development sprawls across the state's landscape, our collective well-being suffers. Fortunately, economic development can take place in a form that maximizes smart growth,
+
+    while section 9-B:2 declares:
+    >It shall be the policy of the state of New Hampshire that state agencies act in ways that encourage smart growth.
+
+3.  Section 9-B:3, defines smart growth, linking the concept with preservation of open space, including farmland:
+    > In this chapter, "smart growth'' means the control of haphazard and unplanned development and the use of land which results over time, in the inflation of the amount of land used per unit of human development, and of the degree of dispersal between such land areas. "Smart growth'' also means the development and use of land in such a manner that its physical, visual, or audible consequences are appropriate to the traditional and historic New Hampshire landscape. Smart growth may include denser development of existing communities, encouragement of mixed uses in such communities, the protection of villages, and planning so as to create ease of movement within and among communities. Smart growth preserves the integrity of open space in agricultural, forested, and undeveloped areas. 
+
+4. [NH RSA 674:2](http://www.gencourt.state.nh.us/rsa/html/lxiv/674/674-2.htm)states that the:
+    >The purpose of the master plan is to set down as clearly and practically as possible the best and most appropriate future development of the area under the jurisdiction of the planning board, to aid the board in designing ordinances that result in preserving and enhancing the unique quality of life and culture of New Hampshire, and to guide the board in the performance of its other duties in a manner that **achieves the principles of smart growth, sound planning, and wise resource protection**. (emphasis added)
+
+
 
 ---
 
