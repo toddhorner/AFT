@@ -16,6 +16,13 @@
 
 #### State tracking of local plans
 
+**YES**
+1.	CTAP publishes a map that links to all city and county planning documents on record.
+
+	![assets/MT-6e7e6.png](./assets/MT-6e7e6.png)
+
+	Might want to follow up regarding how frequently the database is updated, or how proactively CTAP seeks planning document information. Call at [(406) 841-2770](<tel:4068412770>).
+
 #### State planning goals related to compact development/smart growth
 
 ### Local Planning
