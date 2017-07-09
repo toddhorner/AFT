@@ -18,6 +18,7 @@
 
 
 ####  State Plan for Agriculture
+1. **NO**
 
 #### State Planning Goals Relate to Agriculture
 1.  **YES**
@@ -88,12 +89,19 @@
 #### Require localities to address agricultural issues in their local plans
 
 1. **NO**
-2.
+2. According to [RSA 674:2:2:i](http://www.gencourt.state.nh.us/rsa/html/lxiv/674/674-2.htm), a municipality may optionally include "regional concern section" within a master plan. A regional concern section
+    >describes the specific areas in the municipality of significant regional interest. These areas may include resources wholly contained within the municipality or bordering, or shared, or both, with neighboring municipalities. Items to be considered may include but are not limited to public facilities, natural resources, economic and housing potential, transportation, agriculture, and open space. The intent of this section is to promote regional awareness in managing growth while fulfilling the vision statements.
 
 
 #### Require localities to protect agricultural resources in their local plans
 
-2. **NO**
-
+1. **NO**
+2. See above.
 
 #### Require localities to support compact/efficient development in designated growth areas
+
+1. **NO**
+2. In its description of a municipal master plan and its contents, state statute explicitly mentions smart growth:
+    >The purpose of the master plan is to set down as clearly and practically as possible the best and most appropriate future development of the area under the jurisdiction of the planning board, to aid the board in designing ordinances that result in preserving and enhancing the unique quality of life and culture of New Hampshire, and to guide the board in the performance of its other duties in a manner that achieves the principles of smart growth, sound planning, and wise resource protection. [(RSA 674:2)](http://www.gencourt.state.nh.us/rsa/html/lxiv/674/674-2.htm)
+
+    No state law, however, refers to designated growth boundaries.
