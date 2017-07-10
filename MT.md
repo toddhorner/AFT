@@ -53,3 +53,11 @@
 #### Require localities to protect agricultural resources in their local plans
 
 #### Require localities to support compact/efficient development in designated growth areas
+
+**NO**
+
+1.	A city's growth policy may optionally support smart growth:
+	> * (4) A growth policy may
+	>		* (c) establish an infrastructure plan that, at a minimum, includes:
+	> 		* (iv) for cities, land use map showing where projected growth will be guided and at what densities within city boundaries
+	>			* ()	
