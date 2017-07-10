@@ -56,7 +56,7 @@
 
 **NO**
 
-1.	A city's growth policy may optionally support smart growth:
+1.	According to [MCA 76-1-601](http://leg.mt.gov/bills/mca/76/1/76-1-601.htm), A city's growth policy may optionally support smart growth:
 	> * (4) A growth policy may
 	>	* (c) establish an infrastructure plan that, at a minimum, includes:
-	> 		* (iv) for cities, land use map showing where projected growth will be guided and at what densities within city boundaries	
+	> 		* (iv) for cities, land use map showing where projected growth will be guided and at what densities within city boundaries
