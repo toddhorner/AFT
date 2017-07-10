@@ -50,7 +50,16 @@
 
 #### Require localities to address agricultural issues in their local plans
 
+**NO**
+
+1.	A growth policy may include an optional infrastructure plan. *If* a growth policy *does* include an infrastructure plan, then said infrastructure plan *must* include
+	> a description of how and where projected development inside municipal boundaries for cities and inside designated joint infrastructure planning areas for cities and counties could adversely impact [...] agricultural lands and agricultural production. [(MCA 76-1-701)](http://leg.mt.gov/bills/mca/76/1/76-1-601.htm)
+
 #### Require localities to protect agricultural resources in their local plans
+
+**NO**
+
+1. See above. Also note that the optional infrastructure plan must include only a *description* of potential development impacts on agriculture. It does not require any action to prevent forecast impacts.
 
 #### Require localities to support compact/efficient development in designated growth areas
 
