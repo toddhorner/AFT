@@ -9,7 +9,22 @@
 
 ####  State Plan for Agriculture
 
+**NO**
+
+1.	The MT State Action Plan functions as an application to HUD's CDBG program. It doesn't address land use or agriculture.
+2.	No plan published by Dept. of Commerce, Dept. of Ag, or Dept. of Environmental Quality.
+
 #### State Planning Goals Relate to Agriculture
+
+**NO**
+
+1.	Statute recognizes the importance of protecting farmland, but in the context of conducting a soil survey, not planning. According to [MCA 76-11-02](http://leg.mt.gov/bills/mca/title_0760/chapter_0110/part_0020/section_0020/0760-0110-0020-0020.html):
+	>The legislature finds that the soils of the state of Montana are one of its most basic and precious natural resources and that detailed knowledge of soil capabilities and adaptability is essential for:
+	>	*	(d) protecting our forest, range, and agricultural lands
+
+
+2.	[Part 9 of MCA 76-2](http://leg.mt.gov/bills/mca/title_0760/chapter_0020/part_0090/section_0010/0760-0020-0090-0010.html), "Agricultural Activities," contains right-to-farm provisions, but nothing regarding preservation.
+3. Criteria and guidelines for [county](http://leg.mt.gov/bills/mca/title_0760/chapter_0020/part_0020/section_0030/0760-0020-0020-0030.html) and [municipal](http://leg.mt.gov/bills/mca/title_0760/chapter_0020/part_0030/section_0040/0760-0020-0030-0040.html) zoning do not address farmland.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
@@ -38,6 +53,8 @@
 	Might want to follow up regarding how frequently the database is updated, or how proactively CTAP seeks planning document information. Call at [(406) 841-2770](<tel:4068412770>).
 
 #### State planning goals related to compact development/smart growth
+
+---
 
 ### Local Planning
 
