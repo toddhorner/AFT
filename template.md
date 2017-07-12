@@ -14,6 +14,8 @@
 
 #### State planning goals related to compact development/smart growth
 
+---
+
 ### Local Planning
 
 #### Requires localities to develop comprehensive plans
