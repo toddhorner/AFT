@@ -54,6 +54,8 @@
 
 #### State planning goals related to compact development/smart growth
 
+**NO**
+
 ---
 
 ### Local Planning

@@ -29,6 +29,10 @@
 
 #### State Planning Goals Relate to Agriculture
 
+**NO**
+
+1.  The only statute related to farmland preservation is the ["Missouri Farmland Trust Act"](http://revisor.mo.gov/main/OneSection.aspx?section=262.815&bid=14199), which empowers the Department of Agriculture to receive and steward donated farmland.
+
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
 #### State tracking of local plans
@@ -56,6 +60,8 @@
 
     Agriculture is not cited as a required topic.
 
+2.  [RSA 89.340](http://revisor.mo.gov/main/OneSection.aspx?section=89.340&bid=4632) describes the contents of a city zoning plan. Agriculture (or any form of natural resource conservation) is not included as a manadated or optional section.
+
 #### Require localities to protect agricultural resources in their local plans
 
 **NO**
@@ -63,3 +69,10 @@
 1. See above.
 
 #### Require localities to support compact/efficient development in designated growth areas
+
+**NO**
+
+1.  As stated above, [RSA 64.040](http://revisor.mo.gov/main/OneSection.aspx?section=64.040&bid=2442&hl=) specifies contents of county plans, while [RSA 89.340](http://revisor.mo.gov/main/OneSection.aspx?section=89.340&bid=4632) does so for cities, and requires only that plans
+    >show the commission's recommendations for the physical development and uses of land.
+
+    Statute does not require that those recommendations meet any guidelines, including those related to smart growth.
