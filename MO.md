@@ -17,7 +17,7 @@
 3.  The Office of Administration provides a small amount of funding to MO's network of regional planning councils. According to the [Missouri Association of Councils of Government](http://www.macogonline.org/partners.htm):
       >With legislative approval, Missouri's Regional Planning Commissions receive an annual disbursement of funds to facilitate regional planning throughout the state.
 
-    [Statute](http://revisor.mo.gov/main/OneSection.aspx?section=251.034&bid=13410&hl=) requires the regional planning councils match statue funds with local funds. State funds are limited to $25,000 per council, except for the Mid-American Regional Council and the East-West Gateway Coordinating Council, for which funding is limited to \$65,000.
+      [Statute](http://revisor.mo.gov/main/OneSection.aspx?section=251.034&bid=13410&hl=) requires the regional planning councils match statue funds with local funds. State funds are limited to $25,000 per council, except for the Mid-American Regional Council and the East-West Gateway Coordinating Council, for which funding is limited to \$65,000.
 
 4.    RPCs also receive funds from other state agencies (e.g. DOT) and federal entities. MO RPCs are incorporated independently from state government. Municipal membership is voluntary. While some RPCs help localities craft comprehensive plans, the role of an RPCs vary considerably, depending on the communities they serve.
 
