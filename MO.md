@@ -31,13 +31,23 @@
 
 **NO**
 
-1.  The only statute related to farmland preservation is the ["Missouri Farmland Trust Act"](http://revisor.mo.gov/main/OneSection.aspx?section=262.815&bid=14199), which empowers the Department of Agriculture to receive and steward donated farmland.
+1.  The only statute related to farmland preservation is the "[Missouri Farmland Trust Act](http://revisor.mo.gov/main/OneSection.aspx?section=262.815&bid=14199)," which empowers the Department of Agriculture to receive or acquire farmland or easements. Aside from statute itself, no evidence suggests that the trust was ever incorporated or its advisory board appointed. Even if the trust does exist, its mission to "protect and preserve Missouri's farmland," isn't connected with state planning goals.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
+**NO**
+1.  
+
 #### State tracking of local plans
 
+**NO**
+1.  No state agency exists with the capacity or mission to track state plans.
+
 #### State planning goals related to compact development/smart growth
+
+**NO**
+
+1.  No state statute, administrative code, or agency publication discusses density or form of urban development
 
 ---
 
