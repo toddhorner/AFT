@@ -26,7 +26,8 @@
 2.  [RSA 9-A](http://www.gencourt.state.nh.us/rsa/html/I/9-A/9-A-1.htm) mandates the creation of a state development plan. Statute requires that the plan include a:
     >natural resources section which identifies trends in land protection, open space, farm land preservation and protection, and proposes policies and actions necessary at the state level to protect those resources which are perceived to be of statewide significance.
 
-3.  Statute requires that the state development plan be updated every four years, but the most recent version available online is dated year 2000. I need to follow up with NH OEM regarding status of the state plan. Call at [(603) 271-2155](<tel:6032712155>).
+3.  Statute requires that the state development plan be updated every four years, but the most recent version available online is dated year 2000. I need to follow up with NH OEM regarding status of the state plan. Call at [(603) 271-2155](<tel:6032712155>). *Update: confirmed with NH Division of Planning that the plan was last updated in year 2000. An update to the plan is uncertain at this time.*
+
 
 4.  [NH RSA 675:17](http://www.gencourt.state.nh.us/rsa/html/LXIV/674/674-17.htm) states that zoning ordinances "shall be designed:"
     > To encourage the preservation of agricultural lands and buildings and the agricultural operations described in RSA 21:34-a supporting the agricultural lands and buildings;
