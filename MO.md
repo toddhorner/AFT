@@ -26,6 +26,8 @@
 
 **NO**
 
+1.  Checked Dept. of Ag., Office of Administration, Environmental Improvement and Energy Resources Authority.
+
 
 #### State Planning Goals Relate to Agriculture
 
@@ -36,7 +38,7 @@
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
 **NO**
-1.  
+1.  Contacted MACOG President Doug Hermes, by [phone](<tel:18167818631>) and [email](mailto:djhermes@kc.rr.com). Waiting to hear back.
 
 #### State tracking of local plans
 
