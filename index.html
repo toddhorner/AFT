@@ -51,7 +51,7 @@
       <tbody>
         <tr>
           <td>MA</td>
-          <td>1</td>
+          <td>YES</td>
           <td></td>
           <td></td>
           <td></td>
@@ -68,13 +68,13 @@
     $(function() {
       $('tr > td:odd').each(function(index) {
         var scale = [
-          ['danger', 0],
-          ['warning', 0.5],
-          ['success', 1]
+          ['danger', 'NO'],
+          ['warning', 'PARTIAL'],
+          ['success', 'YES']
         ];
         var score = $(this).text();
         for (var i = 0; i < scale.length; i++) {
-          if (score <= scale[i][1]) {
+          if (score == scale[i][1]) {
             $(this).addClass(scale[i][0]);
           }
         }
