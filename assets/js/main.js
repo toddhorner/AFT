@@ -32,13 +32,13 @@ function populateTable(data) {
 
 function parse_datum(datum) {
   if (datum === '0') {
-    return 'NO';
+    return '&#x2715;';
   }
   if (datum === '0.5') {
-    return 'PARTIAL';
+    return '&#x25D2;';
   }
   if (datum === '1') {
-    return 'YES';
+    return '&#x2713;';
   }
   if (datum === '') {
     return '&nbsp;'
@@ -50,12 +50,13 @@ function format_table() {
     $('tr > td').each(function(index) {
 
       var scale = [
-        ['danger', 'NO'],
-        ['warning', 'PARTIAL'],
-        ['success', 'YES']
+        ['danger', '\u2715'],
+        ['warning', '\u25D2'],
+        ['success', '\u2713']
       ];
 
       var score = $(this).text();
+      console.log(score)
 
       for (var i = 0; i < scale.length; i++) {
         if (score == scale[i][1]) {

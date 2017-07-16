@@ -52,7 +52,7 @@
 
 1.  <span style="color:green">**YES**</span>
 2.  Department of Commerce tracks county planning status (e.g. required to “fully plan,” opting to “fully plan,” not fully planning) under the WA Growth Management Act.
-  ![](./images/WA_County_Planning.png)
+  ![](../assets/images/WA_County_Planning.png)
 
 3.  [They also track compliance](http://www.commerce.wa.gov/serving-communities/growth-management/submitting-materials/):
     > Counties and cities must be in compliance with the requirements of the GMA, including the periodic update requirements, to be eligible for grants and loans from certain state infrastructure programs. To help applicants and funding programs implement this requirement, Growth Management Services maintains a list of local governments that are in compliance. When you take legislative action that meets your update requirement, make sure you send the adopting ordinance or legislation to Commerce, clearly identifying it as part of the update. This will allow Commerce to keep information about your city or county complete and up to date.
