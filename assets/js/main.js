@@ -2,7 +2,7 @@
 $(document).ready(function() {
   $.ajax({
     type: "GET",
-    url: "../data/Óscrcrd_data.csv",
+    url: "../data/scrcrd_data.csv",
     dataType: "text",
     success: function(data) {
       scrcrd_data = populateTable(data);
