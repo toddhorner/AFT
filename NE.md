@@ -24,7 +24,7 @@
 
 #### Requires localities to develop comprehensive plans
 
-1.  For NE counties, a comprehensive plan is required as a precondition for enacting zoning ordinance ([23-114.03](http://nebraskalegislature.gov/laws/statutes.php?statute=23-114.03)). Neither zoning nor a comprehensive plan are mandatory, however.
+1.  For NE counties, a comprehensive plan is required as a precondition for enacting zoning ordinance ([23-114.03](http://nebraskalegislature.gov/laws/statutes.php?statute=23-114.03)). Neither zoning nor a comprehensive plan are mandatory, however. [State law](http://nebraskalegislature.gov/laws/statutes.php?statute=13-301) encourages counties containing larger cities to adopt a comprehensive plan and zoning ordinance.
 2.  
 
 #### Require localities to address agricultural issues in their local plans
@@ -36,4 +36,10 @@
 
 #### Require localities to protect agricultural resources in their local plans
 
+**NO**
+
+1.  See above.
+
 #### Require localities to support compact/efficient development in designated growth areas
+
+1.  [Statute](http://nebraskalegislature.gov/laws/statutes.php?statute=23-114.02) does not require counties to adopt comprehensive plans that promote smart growth.
