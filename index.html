@@ -5,36 +5,31 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="assets/jquery.csv.min.js" charset="utf-8"></script>
+  <script src="assets/jquery.stickytableheaders.min.js" charset="utf-8"></script>
   <title></title>
   <style media="screen">
     .col-centered {
       float: none;
       margin: 0 auto;
     }
+
+    th{
+      background-color: white;
+    }
   </style>
 </head>
 
 <body>
   <div id="container" class="col-xs-11 col-sm-11 col-md-11 col-lg-11 col-centered">
-    <table class="table table-bordered table-responsive main-table">
+    <table id="main-table" class="table table-bordered table-condensed table-hover">
       <thead>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <col>
-        <tr>
+        <tr class="categories">
           <th class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></th>
           <th class="col-xs-6 col-sm-6 col-md-6 col-lg-6" colspan="6">State Planning</th>
           <th class="col-xs-6 col-sm-6 col-md-6 col-lg-6" colspan="4">Local Planning</th>
         </tr>
-        <tr>
+        <tr class="sub-categories">
           <th class="col-xs-1 col-sm-1 col-md-1 col-lg-1"></th>
           <th class="col-xs-1 col-sm-1 col-md-1 col-lg-1">Capacity</th>
           <th class="col-xs-1 col-sm-1 col-md-1 col-lg-1">Ag Plan</th>
@@ -49,41 +44,10 @@
         </tr>
       </thead>
       <tbody>
-        <a href="MN.md">
-          <tr>
-            <td>MN</td>
-            <td>YES</td>
-            <td>NO</td>
-            <td>YES</td>
-            <td>YES</td>
-            <td>YES</td>
-            <td>YES</td>
-            <td>NO</td>
-            <td>NO</td>
-            <td>PARTIAL</td>
-            <td>NO</td>
-          </tr>
-        </a>
       </tbody>
   </div>
 
-  <script type="text/javascript">
-    $(function() {
-      $('tr > td').each(function(index) {
-        var scale = [
-          ['danger', 'NO'],
-          ['warning', 'PARTIAL'],
-          ['success', 'YES']
-        ];
-        var score = $(this).text();
-        for (var i = 0; i < scale.length; i++) {
-          if (score == scale[i][1]) {
-            $(this).addClass(scale[i][0]);
-          }
-        }
-      });
-    });
-  </script>
+  <script src="assets/main.js" charset="utf-8"></script>
 
 </body>
 
