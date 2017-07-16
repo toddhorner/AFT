@@ -49,24 +49,27 @@
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>MA</td>
-          <td>YES</td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
+        <a href="MN.md">
+          <tr>
+            <td>MN</td>
+            <td>YES</td>
+            <td>NO</td>
+            <td>YES</td>
+            <td>YES</td>
+            <td>YES</td>
+            <td>YES</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>PARTIAL</td>
+            <td>NO</td>
+          </tr>
+        </a>
       </tbody>
   </div>
+
   <script type="text/javascript">
     $(function() {
-      $('tr > td:odd').each(function(index) {
+      $('tr > td').each(function(index) {
         var scale = [
           ['danger', 'NO'],
           ['warning', 'PARTIAL'],
@@ -81,6 +84,7 @@
       });
     });
   </script>
+
 </body>
 
 </html>
