@@ -8,7 +8,8 @@
 
 1.  NE Department of Economic Development has a [Community Development Division](https://opportunity.nebraska.gov/grow-your-community/), but all its programming aims at *encouraging* growth, not directing it.
 2.  [NE Department of Agriculture](http://www.nda.nebraska.gov/) does not offer land use programming or employ staff planners.
-3.  Nebraska does not have a statewide network of regional planning commissions or councils of government. The Omaha area is served by the [Omaha-Council Bluffs Metropolitan Area Planning Agency (MAPA)](http://mapacog.org/about/what-is-mapa/), an entity formed locally, independent of state government.
+3.  From personal communication with the NE chapter of the APA
+    >The state does have a network of Development Districts (COGs). Some have tried to do comprehensive plans but they usually lack the staff and training to complete these on a regular basis. Only 1 Development District (PADD) has regularly worked in their region doing such work.  
 
 ####  State Plan for Agriculture
 
@@ -26,19 +27,22 @@
 
 **NO**
 
-1.  No state agency or program provides grants or technical assistance to support the development of local comprehensive plans or farmland protection plans.
+2.  From personal communication with the NE chapter of the APA:
+    >The Nebraska Department of Economic Development provides Planning Grants, which cover Comprehensive Plans, but the county must meet all Low- to Moderate Income requirements which is difficult. There is no state agency that directly writes plans.
+
+2.  Outside the parameters stated above, no state agency or program provides grants or technical assistance to support the development of local comprehensive plans or farmland protection plans.
 
 #### State tracking of local plans
 
 **NO**
 
-1.  No state agency has the capacity or a mission to track local comprehensive plans.
+1.  No state agency has the capacity or a mission to track local comprehensive plans. Confirmed with NE APA chapter.
 
 #### State planning goals related to compact development/smart growth
 
 **NO**
 
-1.  No state law or planning document sets forth smart growth goals.
+1.  No state law or planning document sets forth smart growth goals. Confirmed with NE APA chapter.
 
 ---
 
