@@ -4,19 +4,31 @@
 
 #### State Planning Capacity
 
+**NO**
+
 1.  NE Department of Economic Development has a [Community Development Division](https://opportunity.nebraska.gov/grow-your-community/), but all its programming aims at *encouraging* growth, not directing it.
 2.  [NE Department of Agriculture](http://www.nda.nebraska.gov/) does not offer land use programming or employ staff planners.
-3.
+3.  Nebraska does not have a statewide network of regional planning commissions or councils of government. The Omaha area is served by the [Omaha-Council Bluffs Metropolitan Area Planning Agency (MAPA)](http://mapacog.org/about/what-is-mapa/), an entity formed locally, independent of state government.
 
 ####  State Plan for Agriculture
 
-#### State Planning Goals Relate to Agriculture
+**NO**
+
+1.  No state agency, including the [Dept. of Economic Development](https://opportunity.nebraska.gov/), the [Department of Ag.](http://www.nda.nebraska.gov/), and the [Department of Natural Resources](https://dnr.nebraska.gov/), have developed a state agriculture plan.
+
+#### State Planning Goals Related to Agriculture
+
+1.  
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
 #### State tracking of local plans
 
+1.  No state age
+
 #### State planning goals related to compact development/smart growth
+
+1.  No state law or planning document sets forth smart growth goals.
 
 ---
 
