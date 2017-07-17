@@ -1,4 +1,4 @@
-## Nebraska - Planning & Zoning Scorecard
+## Nebraska - Planning & Zoning Scorecard Notes
 
 ### State Planning
 
@@ -18,15 +18,25 @@
 
 #### State Planning Goals Related to Agriculture
 
-1.  
+**NO**
+
+1.  No state law or planning document sets for agricultural goals related to planning or land use. The [Nebraska Right to Farm Act](http://nebraskalegislature.gov/laws/statutes.php?statute=2-4403) protects farming operations from nuisance suits, but does not specify *goals* that connect agriculture with planning or zoning.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
+**NO**
+
+1.  No state agency or program provides grants or technical assistance to support the development of local comprehensive plans or farmland protection plans.
+
 #### State tracking of local plans
 
-1.  No state age
+**NO**
+
+1.  No state agency has the capacity or a mission to track local comprehensive plans.
 
 #### State planning goals related to compact development/smart growth
+
+**NO**
 
 1.  No state law or planning document sets forth smart growth goals.
 
@@ -42,7 +52,7 @@
 2.  [State law](http://nebraskalegislature.gov/laws/statutes.php?statute=14-373) requires that each city of "metropolitan class"
     >prepare a plan for its future physical development and growth.
 
-    [NE RS 14-101](http://nebraskalegislature.gov/laws/statutes.php?statute=14-101) stipulates that cities with a population greater then 300,000 are classified as metropolitan.
+    [NE RSA 14-101](http://nebraskalegislature.gov/laws/statutes.php?statute=14-101) stipulates that cities with a population greater then 300,000 are classified as metropolitan.
 3.  In any city of the [primary class](http://nebraskalegislature.gov/laws/statutes.php?statute=15-101) (population 100,000-300,000),
     >there shall be created a planning department, which shall consist of a city planning commission, a planning director, and such subordinate employees as are required to administer the planning program hereinafter set forth. [(RSA 15-1101)](http://nebraskalegislature.gov/laws/statutes.php?statute=15-1101)
 
