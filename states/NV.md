@@ -1,4 +1,4 @@
-## Rhode Island - Planning & Zoning Scorecard
+## Nevada - Planning & Zoning Scorecard
 
 ### State Planning
 
@@ -32,6 +32,7 @@
 1.  The NV Dept. of Health and Human Services Grants Management Unit published a [state food security plan](http://www.diversifynevada.com/uploads/studies/StrategicPlanFoodSecurityinNV_020713.pdf) in 2013. The plan focuses on preventing hunger and malnutrition. Although it does include goals related to increasing the consumption of local foods, it doesn't address preservation of agricultural resources.
 2.  In 2014, the NV Governor's Office of Economic Development published [*"Nevada Agricultural Report: Analysis and Opportunities"*](http://www.diversifynevada.com/uploads/studies/2013nvagreport.pdf). The plan does not include a chapter of recommendations related to land use or farmland protection. Conversely, it does include recommendations related to the promotion of hydroponics and vertical farming:
     >Expand local based agriculture through vertical farming and hydroponic growing operations. Focus efforts on expanding technology adoption within the state and the  promotion and education of businesses to establish and succeed. Seek out empty buildings within communities and support their transition to growing centers.
+3.  Department of Agriculture has not published a plan.
 
 #### State Planning Goals Related to Agriculture
 
@@ -41,7 +42,8 @@
     > *  (1) That the renewable natural resources of the State of Nevada are basic assets.
     >     *   (2) That they are being affected by the ever-increasing demands of farm and ranch operations and by changes in land use from agricultural to nonagricultural uses, such as, but not limited to, residential and commercial developments, highways and airports.
 
-    Neither statute nor any official planning document contain goals that link agricultural preservation with land use planning.
+    Neither statute nor any official planning document contain goals that link agricultural preservation with land use planning. Also, according to personal correspondence with Skip Scanfied of the NV State Land Use Planning Agency,
+    >Most individual counties adopt Public Land Policy Plans that typically include a policy section on Farmland Preservation…  however not all of them address the topic.
 
 
 
@@ -52,11 +54,18 @@
 1.  [The State Land Use Planning Agency](http://lands.nv.gov/program/slupa.htm)
     >provides technical land use planning assistance to local governments upon request. This assistance is wide-ranging and includes help with community planning, land use and natural resources issues, and development of Public Land Policy Plans.
 
+2.  Also, according to Skip Scanfield of the NV State Land Use Planning Agency,
+    >The State does provide funding to me, as the Program Manager of the State Land Use Planning Agency, to assist, upon request in the development of, and update to, comprehensive plans.  However, of late, most counties have hired professional staff or consultants to do these updates.
+
 
 #### State tracking of local plans
 
+**NO**
 
-1.  Need to confirm with Skip Canfield at (775) 684-2723
+
+1.  According to personal correspondence with the State Land Use Planning Agency:
+    > In years prior to about 2000 we did, but found it unnecessary with the advent of the internet.  Also, the Nevada Association of Counties https://www.nvnaco.org/  acts as a coordinator of information like that.
+
 2.  The NV Research Division [inventories county and city zoning codes](https://www.leg.state.nv.us/Division/Research/Library/Links/Codes.html).
 
 #### State planning goals related to compact development/smart growth
@@ -64,6 +73,9 @@
 **NO**
 
 1.  None identified in statute or official planning document. Emailed Skip Canfield to verify. Also emailed NV chapter of the APA.
+
+2.  From correspondence with Skip Scanfield:
+    >The State has not specifically adopted these policies, rather, Nevada Revised Statutes section 278 enables local jurisdictions to adopt policies and ordinances that address a wide range of planning topics.
 
 ---
 
@@ -93,7 +105,7 @@
 
 #### Require localities to support compact/efficient development in designated growth areas
 
-**PARTIAL**
+**NO**
 
 1.  A city or county master plan *may* include a land use element. If it does include a land use element, then said element **must** include a land use plan. A land use plan "must, if applicable":
     > * address mixed-use development, transit-oriented development, master-planned communities...

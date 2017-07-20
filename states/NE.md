@@ -9,19 +9,26 @@
 1.  NE Department of Economic Development has a [Community Development Division](https://opportunity.nebraska.gov/grow-your-community/), but all its programming aims at *encouraging* growth, not directing it.
 2.  [NE Department of Agriculture](http://www.nda.nebraska.gov/) does not offer land use programming or employ staff planners.
 3.  From personal communication with the NE chapter of the APA
-    >The state does have a network of Development Districts (COGs). Some have tried to do comprehensive plans but they usually lack the staff and training to complete these on a regular basis. Only 1 Development District (PADD) has regularly worked in their region doing such work.  
+    >The state does have a network of Development Districts (COGs). Some have tried to do comprehensive plans but they usually lack the staff and training to complete these on a regular basis. Only 1 Development District (PADD) has regularly worked in their region doing such work.
+
+4.  From personal correspondence with Gordon Scholz, faculty at the Community and Regional Planning Program at University of Nebraska-Lincoln:
+    >There is no significant traditional land use planning done at the state level in Nebraska.  The land use planning functions are delegated to local governments—counties and municipalities.
 
 ####  State Plan for Agriculture
 
 **NO**
 
 1.  No state agency, including the [Dept. of Economic Development](https://opportunity.nebraska.gov/), the [Department of Ag.](http://www.nda.nebraska.gov/), and the [Department of Natural Resources](https://dnr.nebraska.gov/), have developed a state agriculture plan.
+2.  
 
 #### State Planning Goals Related to Agriculture
 
 **NO**
 
 1.  No state law or planning document sets for agricultural goals related to planning or land use. The [Nebraska Right to Farm Act](http://nebraskalegislature.gov/laws/statutes.php?statute=2-4403) protects farming operations from nuisance suits, but does not specify *goals* that connect agriculture with planning or zoning.
+2.  From personal corresponence with Prof. Scholze:
+    >Nebraska has a right to farm statute: http://nebraskalegislature.gov/laws/statutes.php?statute=2-4403
+Otherwise, there are no significant specific planning goals related to agriculture – other than goals that might have been adopted by the Department of Agriculture or other state agencies.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
@@ -29,6 +36,9 @@
 
 2.  From personal communication with the NE chapter of the APA:
     >The Nebraska Department of Economic Development provides Planning Grants, which cover Comprehensive Plans, but the county must meet all Low- to Moderate Income requirements which is difficult. There is no state agency that directly writes plans.
+
+2.  From correspondence with Prof. Scholz:
+    >Nebraska state government does not track adoption and updates of local comprehensive plans, but indirectly the Nebraska Department of Economic Development would have records of planning processes (new plan adoptions or plan updates) that are being funded partially by Community Development Block Grant funds.  I don’t know how complete, how well organized, or how long that information is kept.
 
 2.  Outside the parameters stated above, no state agency or program provides grants or technical assistance to support the development of local comprehensive plans or farmland protection plans.
 
@@ -43,6 +53,8 @@
 **NO**
 
 1.  No state law or planning document sets forth smart growth goals. Confirmed with NE APA chapter.
+2.  Also, from correspondence with Prof. Scholz:
+    >Nebraska has not adopted statewide planning goals related to smart growth.
 
 ---
 
