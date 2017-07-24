@@ -29,7 +29,16 @@
 
 #### Requires localities to develop comprehensive plans
 
+**NO**
+
+1.  Municipalities may establish planning commissions [(NMSA 3-19-1)](http://public.nmcompcomm.us/nmpublic/gateway.dll/?f=templates&fn=default.htm). Under [NMSA 3-19-9](http://public.nmcompcomm.us/nmpublic/gateway.dll/?f=templates&fn=default.htm), a planning commission
+    >shall prepare and adopt a master plan for the physical development of the municipality and the area within the planning and platting jurisdiction of the municipality which in the planning commission's judgment bears a relationship to the planning of the municipality.
+
 #### Require localities to address agricultural issues in their local plans
+
+**NO**
+
+1. [NMSA 3-19-9](http://public.nmcompcomm.us/nmpublic/gateway.dll/?f=templates&fn=default.htm) sets forth only *optional* components of a municipal master plan. Statute does not list ag
 
 #### Require localities to protect agricultural resources in their local plans
 
