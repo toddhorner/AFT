@@ -9,7 +9,7 @@
 1.  Both Prof. Reece of Ohio State University and Kim Lieber of APA-OH wrote in e-mail correspondence that the state does not perform planning functions.
 2.  Online research corroborates their input. The only official government publication to offer guidance on comprehensive planning is ["Best Local Land Use Practices"](http://balancedgrowth.ohio.gov/BestLocalLandUsePractices/BestLocalLandUsePracticeChapters.aspx), authored by the [Ohio Balanced Growth Program](http://balancedgrowth.ohio.gov/Home.aspx). Ohio Balanced Growth is partnership between the Ohio Lake Erie Commission and the Ohio Water Resources Council. It encourages cross-jurisdictional coordination to manage watershed resources. It and its partner agencies provide technical support for the creation of Watershed Balanced Growth Plans:
 
-    >A Watershed Balanced Growth Plan is a framework for coordinated, regional decision-making about how growth and conservation should be promoted by local and state policies and investments in the context of local watersheds. The process is voluntary, and the state offers incentives for participation. The Watershed Balanced Growth Plan provides for both economic development and water resource protection, and is meant to augment and harmonize with local comprehensive plans - not replace them. The Plans are presented to the appropriate local governing bodies possessing land use decision making authority and, if adopted by a significant Ohio Balanced Growth Strategy – 2011 | 7 majority of local governments via resolution of support, are then presented to the state for review and endorsement.
+    >A Watershed Balanced Growth Plan is a framework for coordinated, regional decision-making about how growth and conservation should be promoted by local and state policies and investments in the context of local watersheds. The process is voluntary, and the state offers incentives for participation. The Watershed Balanced Growth Plan provides for both economic development and water resource protection, and is meant to augment and harmonize with local comprehensive plans - not replace them. The Plans are presented to the appropriate local governing bodies possessing land use decision making authority and, if adopted by a significant Ohio Balanced Growth Strategy – 2011. Seven majority of local governments via resolution of support, are then presented to the state for review and endorsement.
     >
     >In preparing its watershed plan, the partnership seeks to harmonize the needs of the watershed as a whole with the adopted plans of local governments, adopted functional plans of other governmental agencies in the watershed, and the adopted plans of the Lake Erie or Ohio River basin. State agency staff members at the regional or local level are consulted up front regarding the location and status of state projects in the watershed. Partnerships are also encouraged to consider and incorporate existing studies that will provide the information base necessary for sound decision-making concerning future development and conservation.
 
@@ -53,7 +53,7 @@
 
 **NO**
 
-1.  Ohio Balanced Growth perhaps represents the closest the state comes to establishing planning goals related to smart growth, but the goals are auxiliary to watershed conservation. 
+1.  Ohio Balanced Growth perhaps represents the closest the state comes to establishing planning goals related to smart growth, but the goals are auxiliary to watershed conservation.
 
 
 ---
