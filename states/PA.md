@@ -1,4 +1,4 @@
-## Pennsylvania - Planning & Zoning Scorecard
+## PAnnsylvania - Planning & Zoning Scorecard
 
 ### State Planning
 
@@ -15,8 +15,7 @@
 
     Board membership consists of gubernatorial and legislative appointees, as well as cabinet secretaries.
 
-2.  The PE Dept. of Community and Economic Development has a [Community Planning Section](http://dced.pa.gov/housing-and-development/community-planning/), which work collaboratively with the State Planning Board and provides assistance to local jurisdictions.
-3. The PE Dept. of Environmental Protection also
+2.  The PA Dept. of Community and Economic Development has a [Community Planning Section](http://dced.pa.gov/housing-and-development/community-planning/), which work collaboratively with the State Planning Board and provides assistance to local jurisdictions. It publishes the [State Land Use and Growth Management Report](http://dced.pa.gov/download/state-land-use-growth-management-report-2015/?wpdmdl=65493) every 5 years.
 
 ####  State Plan for Agriculture
 
@@ -24,7 +23,7 @@
 
 **YES**
 
-1.  Section 105 of the PE Municipalities Planning Code (MPC) includes preservation of prime agricultural land as a purpose of the act:
+1.  Section 105 of the PA Municipalities Planning Code (MPC) includes preservation of prime agricultural land as a purpose of the act:
 
     >   It is the intent, purpose and scope of this act to protect and promote safety, health and morals; to accomplish coordinated development; to provide for the general welfare by guiding and protecting amenity;
     [...]
@@ -42,20 +41,33 @@
     The Training Partnership offers courses that cover land use planning.
 
 2.  Penn State Extension offers [webinars](http://extension.psu.edu/community/ecd/courses/land-use-planning) and other resources on land use planning and decision-making.
-3. Section 301.5 of the PE MPC prioritizes the award of state planning grants to municipalities who agree to harmonize municipal comprehensive plans with respective county comprehensive plans:
+3. The PA Department of Community and Economic Development provides funding for community planning through the [Municipal Assistance Program](http://dced.pa.gov/programs/municipal-assistance-program-map/).
+4. Section 301.5 of the PA MPC prioritizes the award of state planning grants to municipalities who agree to harmonize municipal comprehensive plans with respective county comprehensive plans:
 
     >Priority for state grants to develop or revise comprehensive plans shall be given to those municipalities which agree to adopt comprehensive plans generally consistent with the county comprehensive plan and which agree to enact a new zoning ordinance or amendment which would fully implement the municipal comprehensive plan. No more than 25% of the total funds available for these grants shall be disbursed under priority status pursuant to this provision. Municipalities and counties shall comply with these agreements within three years. Failure to comply with the agreements shall be taken into consideration for future state funding.
 
 
 #### State tracking of local plans
 
-1.  Penn State Agriculture Extension conducted a [land use survey](http://extension.psu.edu/publications/ua350) in 1999, which covered both comprehensive plans and zoning ordinance.
+**YES**
 
-    ![](assets/PE-bbad8.png)
+1.  The PA Dept. of Economic and Community Development publishes a State Land Use and Growth Management Report every five years. The report includes figures on local adoption of comprehensive plans and zoning ordinance:
+
+    ![PA Zoning Figures](assets/PA-d5c94.png)
+
 
 #### State planning goals related to compact development/smart growth
 
+**NO**
 
+1. PA statue, including the Municipal Planning Code, does not establish smart growth goals.
+2.  The most recent State Land Use and Growth Management Report notes that the conversion of undeveloped land has slowed since the Great Recession:
+    >*   During 2006-2011 the amount of developed land statewide increased 1.7 percent, compared to 1992-2005 when the amount of developed land increased 131 percent.
+    > *   Numbers of building permits were at historic lows 2008-2014.
+
+    The report mentions Smart Growth only to recognize the limited scope of conversation on the subject:
+
+    >Discussions have suggested PA and communities may need to have strategies for attracting people, placemaking, smart growth, and asset investment to capitalize on these changes, but discussions only scratched the surface.
 
 ---
 
@@ -81,7 +93,7 @@
 
 **PARTIAL**
 
-1.  Towns and cities are not required to address agriculture in their   comprehensive plan. According to PE MPC Section 301:
+1.  Towns and cities are not required to address agriculture in their   comprehensive plan. According to PA MPC Section 301:
     >(a) The municipal, multimunicipal or county comprehensive plan, consisting of maps, charts and textual matter, shall include, but need not be limited to, the following related basic elements:
     > * (2) A plan for land use, which **may include** provisions for the amount, intensity, character and timing of land use proposed for residence, industry, business, agriculture, major traffic and transit facilities, utilities, community facilities, public grounds, parks and recreation, **preservation of prime agricultural lands**, flood plains and other areas of special hazards and other similar uses.
 
@@ -99,7 +111,7 @@
 
 **NO**
 
-1.  PE MPC authorizes, but does not require "intergovernmental cooperative agreements" to :
+1.  PA MPC authorizes, but does not require "intergovernmental cooperative agreements" to :
 
     > designate growth areas, future growth areas and rural resource areas within the plan. The agreement shall also provide a process for amending the multimunicipal comprehensive plan and redefining the designated growth area, future growth area and rural resource area within the plan. (MPC Section 1104 (c))
 
