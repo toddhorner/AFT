@@ -1,4 +1,4 @@
-## PAnnsylvania - Planning & Zoning Scorecard
+## Pennsylvania - Planning & Zoning Scorecard
 
 ### State Planning
 
