@@ -19,6 +19,10 @@
 
 ####  State Plan for Agriculture
 
+**NO**
+
+1.  No state entity, including PA Dept. of Agriculture has published either state plan for agriculture or a food systems plan.
+
 #### State Planning Goals Relate to Agriculture
 
 **YES**

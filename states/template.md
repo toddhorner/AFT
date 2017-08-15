@@ -1,4 +1,4 @@
-## Rhode Island - Planning & Zoning Scorecard
+## South Carolina - Planning & Zoning Scorecard
 
 ### State Planning
 
@@ -19,6 +19,16 @@
 ### Local Planning
 
 #### Requires localities to develop comprehensive plans
+
+**NO**
+
+1.  According to SC State Law 6-29-320,
+
+    >The city council of each municipality **may** create a municipal planning commission. The county council of each county may create a county planning commission.
+
+    A local planning commission then "has the power and the duty to":
+
+    (1) prepare and revise periodically plans and programs for the development and redevelopment of its area as provided in this chapter;
 
 #### Require localities to address agricultural issues in their local plans
 
