@@ -4,7 +4,13 @@
 
 #### State Planning Capacity
 
+1.  
+
 ####  State Plan for Agriculture
+
+**NO**
+
+1.  No state entity has published a plan for agriculture or a food systems plan.
 
 #### State Planning Goals Relate to Agriculture
 

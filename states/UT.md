@@ -18,13 +18,40 @@
 
     The State Planning Coordinator's office also provides administrative/staff support to the Quality Growth Commission (see below for more info).
 
-2.  The Utah Quality Growth Act of 1999 created the
+2.  The Utah Quality Growth Act of 1999 created the Quality Growth Commission. The commission consists of:
 
+    >	(i)	the director of the Department of Natural Resources;
+    > (ii)	the commissioner of the Department of Agriculture and Food;
+    > (iii)	six elected officials at the local government level, three of whom may not be residents of a county of the first or second class; and
+    > (iv)	five persons from the profit and nonprofit private sector, two of whom may not be residents of a county of the first or second class and no more than three of whom may be from the same political party and one of whom shall be from the residential construction industry, nominated by the Utah Home Builders Association, and one of whom shall be from the real estate industry, nominated by the Utah Association of Realtors.
 
+    Its [mission](https://utahqualitygrowth.wordpress.com/about/) is:
+
+    >1 - To assist local governments with Quality Growth Planning
+    >2 - To advise the legislature and the Governor on growth management issues
+    >3 - To promote critical land conservation as part of responsible growth by administering the LeRay McAllister Critical Land Conservation program.
+
+    As of yet, I have not been able to find how the Utah Quality Growth Commission or the State define "quality growth." The Quality Growth Act charges the commission with making
+
+    >recommendations to the Legislature on how to define more specifically quality growth areas within the general guidelines provided to the commission by the Legislature. (UT State Code 11-38-202)
+
+    Those recommendations, it seems, are still forthcoming.
 
 ####  State Plan for Agriculture
 
-#### State Planning Goals Relate to Agriculture
+**NO**
+
+1.  No state entity has published a plan for agriculture or a food systems plan.
+
+#### State Planning Goals Related to Agriculture
+
+**NO - NEED TO CONFIRM**
+
+1. Utah has created many programs that connect planning and agricultural issues. For example:
+      - Local governments are required to harmonize comprehensive plans with agricultural protection areas (see below)
+      - In the preparation of comprehensive plans, planning commissions must make recommendations regarding land use, including agriculture.
+      - The Utah Quality Growth Commission has published a [Community Assessment Tool for Planning for Agriculture](https://gomb.utah.gov/wp-content/uploads/sites/7/2013/12/Planning-for-Agriculture-tool-kit-5.pdf), which acknowledges the importance harmonizing planning activities with farmland conservation.
+2. However, no state publication explicitly states that conserving farmland *is a goal* or lays out specific goals for farmland conservation.  
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
@@ -42,14 +69,13 @@
 
     > funded by the Utah State Legislature and created by a consortium of public and private sectors to provide uniform professional education to the state’s civic leaders and the general public.
 
-
-
-3.  
-
+    The Academy offers a range of resources, including technical publications and free workshops.
 
 #### State tracking of local plans
 
+**NO - NEED TO CONFIRM**
 
+1.  No online evidence suggests that a state entity track local plans, which is odd, considering that state law requires that municipalities/counties have a comprehensive plan. Strange to have a requirement with no enforcement/monitoring mechanism whatsoever. Will query state practitioners in questionnaire email.
 
 #### State planning goals related to compact development/smart growth
 
@@ -62,7 +88,6 @@
     >(2)	require each local entity to which the commission grants money under Subsection (1) to report to the commission, in a format and upon a timetable determined by the commission, on that local entity's process of developing quality growth principles and on the quality growth principles developed by that local entity.
 
     TO DO: follow-up with Commission staff/board regarding the amount of money actually appropriated for technical assistance.
-
 
 ---
 
@@ -78,7 +103,10 @@
     >   * (a)	present and future needs of the municipality; and
     >   * (b)	growth and development of all or any part of the land within the municipality.
 
-2.  Utah State Code requires that each county adopt a comprehensive plan that cover unincorporated areas:
+2. Also, each municipality must establish a planning commission. [(Utah State Code 10-9a-301)](https://le.utah.gov/xcode/Title10/Chapter9A/10-9a-S301.html)
+
+
+3.  Utah State Code requires that each county adopt a comprehensive plan that cover unincorporated areas:
 
     > * (1)	To accomplish the purposes of this chapter, each county shall prepare and adopt a comprehensive, long-range general plan:
     >   * (a)	for present and future needs of the county;
@@ -90,13 +118,27 @@
 
 #### Require localities to address agricultural issues in their local plans
 
-**NO**
+**PARTIAL**
 
 1.  Statute suggests, but does not require, components of a comprehensive plan. UT State Code [10-9a-401 (2)(c)](https://le.utah.gov/xcode/Title10/Chapter9A/10-9a-S401.html?v=C10-9a-S401_1800010118000101) states that municipal plans **may** provide for:
     > - (c)	the efficient and economical use, conservation, and production of the supply of:
     >   - (i)	food and water;
 
-2.  County general plans must contain "a resource management plan for public lands," which must address agriculture. Statute, however, does not specify requirements for addressing agriculture on private lands.
+2. In the preparation of a plan, planning commmissions are require to make recommendations on a land use element, which, among other purposes,
+
+    >(A)	designates the long-term goals and the proposed extent, general distribution, and location of land for housing, business, industry, agriculture, recreation, education, public buildings and grounds, open space, and other categories of public and private uses of land as appropriate
+    >
+    > UT State Code 10-9a-403 (2)(a)(i)
+
+3. However, if an agricultural protection area exists within a municipality, then:
+
+  > - (c)	In drafting the land use element, the planning commission shall:
+  >   - (i)	identify and consider each agriculture protection area within the municipality; and
+  >   - (ii)	avoid proposing a use of land within an agriculture protection area that is inconsistent with or detrimental to the use of the land for agriculture.
+
+  The governing laws for agricultural protection areas are found in [Utah State Code Title 17 Chapter 41](https://le.utah.gov/xcode/Title17/Chapter41/17-41.html). More information about APA's can also be found at [http://www.utahagriculture.org](http://www.utahagriculture.org).
+
+4.  County general plans must contain "a resource management plan for public lands," which must address agriculture. Statute, however, does not specify requirements for addressing agriculture on private lands.
 
 #### Require localities to protect agricultural resources in their local plans
 
