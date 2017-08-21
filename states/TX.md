@@ -4,7 +4,10 @@
 
 #### State Planning Capacity
 
-1.  
+**NO - NEED TO CONFIRM**
+
+1.  No state agency appears to have a mission related to planning or land use.
+2.  Texas has a network of regional councils of governments, but they are voluntary organizations formed by local governments. Some, but not necessarily all, work on land use and comprehensive planning issues.
 
 ####  State Plan for Agriculture
 
@@ -14,11 +17,27 @@
 
 #### State Planning Goals Relate to Agriculture
 
+**NO**
+
+1.  Statute does not set forth any land use planning goals related to agriculture, nor does any state agency publication.
+
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
+
+**NO - NEED TO CONFIRM**
+
+1.  Some COGS provide technical assistance related to land use, but need to confirm funding stream.
 
 #### State tracking of local plans
 
+**NO - NEED TO CONFIRM**
+
+1.  No state entity has a mission related to land use planning.
+
 #### State planning goals related to compact development/smart growth
+
+**NO**
+
+1.  Statute does not set forth any goals related to smart growth, nor does any state agency publication.
 
 ---
 
