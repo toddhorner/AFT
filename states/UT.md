@@ -55,7 +55,7 @@
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
-**YES**
+**YES - NEED TO CONFIRM**
 
 1.  Section [11-38-203](https://le.utah.gov/xcode/Title11/Chapter38/11-38-S203.html) of Utah State Code - entitled "Commission may provide assistance to local entities" - provides that the Quality Growth Commission "may":
 
@@ -77,6 +77,8 @@
 
 1.  No online evidence suggests that a state entity track local plans, which is odd, considering that state law requires that municipalities/counties have a comprehensive plan. Strange to have a requirement with no enforcement/monitoring mechanism whatsoever. Will query state practitioners in questionnaire email.
 
+  TO DO: follow-up with Commission staff/board regarding the amount of money actually appropriated for technical assistance.
+
 #### State planning goals related to compact development/smart growth
 
 **YES**
@@ -86,8 +88,6 @@
     > The Commission may:
     > [...]
     >(2)	require each local entity to which the commission grants money under Subsection (1) to report to the commission, in a format and upon a timetable determined by the commission, on that local entity's process of developing quality growth principles and on the quality growth principles developed by that local entity.
-
-    TO DO: follow-up with Commission staff/board regarding the amount of money actually appropriated for technical assistance.
 
 ---
 
@@ -124,7 +124,7 @@
     > - (c)	the efficient and economical use, conservation, and production of the supply of:
     >   - (i)	food and water;
 
-2. In the preparation of a plan, planning commmissions are require to make recommendations on a land use element, which, among other purposes,
+2. In the preparation of a plan, planning commissions are require to make recommendations on a land use element, which, among other purposes,
 
     >(A)	designates the long-term goals and the proposed extent, general distribution, and location of land for housing, business, industry, agriculture, recreation, education, public buildings and grounds, open space, and other categories of public and private uses of land as appropriate
     >

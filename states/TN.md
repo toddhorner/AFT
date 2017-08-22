@@ -27,13 +27,17 @@
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
+**YES**
+
 
 1.  The Growth Management Act encourages coordinating to committees to seek technical service from:
     - Department of Economic and Community Development,
     - the county technical assistance service,
     - and the municipal technical advisory service
 
-The Dept. of Economic and Community Development, however, does not appear to offer land use-related services. The municipal technical advisory service has published technical guides on developing growth plans. It also conducts workshops on a host of municipal government matters, including land use (no trainings are scheduled regarding comprehensive or growth plans). Also, the Municipal Technical Advisory Service is housed within the University of Tennessee Institute for Public Service, which functions as the state's extension service. The County Technical Assistance Service is also housed within the Institute for Public Service.
+    The Dept. of Economic and Community Development, however, does not appear to offer land use-related services. The municipal technical advisory service has published technical guides on developing growth plans. It also conducts workshops on a host of municipal government matters, including land use (no trainings are scheduled regarding comprehensive or growth plans). Also, the Municipal Technical Advisory Service is housed within the University of Tennessee Institute for Public Service, which functions as the state's extension service. The County Technical Assistance Service is also housed within the Institute for Public Service.
+
+2.  The Tennessee Advisory Commission on Intergovernmental Relations has published guides regarding land use in the state.
 
 #### State tracking of local plans
 
@@ -116,4 +120,4 @@ Also, it's interesting to note that the Growth Policy Act's furtherance of smart
 
     The Coordinating Committee is charged with developing and adopting a Growth Plan, which shall
 
-    >The recommended growth plan shall identify urban growth boundaries for each municipality within the county and shall identify planned growth areas and rural areas within the county (TN Code 6-58-104 (a)(2)).
+    >identify urban growth boundaries for each municipality within the county and shall identify planned growth areas and rural areas within the county (TN Code 6-58-104 (a)(2)).
