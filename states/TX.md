@@ -1,4 +1,4 @@
-## South Carolina - Planning & Zoning Scorecard
+## Texas - Planning & Zoning Scorecard
 
 ### State Planning
 
