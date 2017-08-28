@@ -142,9 +142,11 @@
 
 #### Require localities to protect agricultural resources in their local plans
 
-**NO**
+**YES - Tentative**
 
-1.  See above
+1.  Reference -  
+(ii)	avoid proposing a use of land within an agriculture protection area that is inconsistent with or detrimental to the use of the land for agriculture.
+
 
 #### Require localities to support compact/efficient development in designated growth areas
 
