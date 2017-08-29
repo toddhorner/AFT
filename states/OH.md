@@ -68,6 +68,8 @@
 
 #### Requires localities to develop comprehensive plans
 
+**NO**
+
 1.  [R.C. § 519.02](http://codes.ohio.gov/orc/519) states that townships may enact zoning "in accordance with a comprehensive plan," but does not mandate adoption of a comprehensive plan.
 2.  Kim Lieber, current president of APA-OH, also notes:
 
@@ -75,12 +77,18 @@
 
 #### Require localities to address agricultural issues in their local plans
 
+**NO**
+
 1.  Ohio statute does not specify and mandatory components of a comprehensive plan.
 
 #### Require localities to protect agricultural resources in their local plans
 
+**NO**
+
 1.  See above.
 
 #### Require localities to support compact/efficient development in designated growth areas
+
+**NO**
 
 1.  Ohio statute does not specify and mandatory components of a comprehensive plan.
