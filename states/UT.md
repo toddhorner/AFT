@@ -16,26 +16,32 @@
 
     Statute then proceeds to outline various principles and findings that the SPC shall promote when engaged in any planning activities related to **federal** lands.
 
-    The State Planning Coordinator's office also provides administrative/staff support to the Quality Growth Commission (see below for more info).
+    According to Evan Curtis, current State Planning Coordinator, the SPC's current work on land use issues focuses on ensuring that state agencies are promoting compatible land uses.
 
-2.  The Utah Quality Growth Act of 1999 created the Quality Growth Commission. The commission consists of:
+    ~~The State Planning Coordinator's office also provides administrative/staff support to the Quality Growth Commission (see below for more info).~~
 
-    >	(i)	the director of the Department of Natural Resources;
+2.  See note below regarding the diminished role of the Quality Growth Commission on planning issues.
+
+    ~~The Utah Quality Growth Act of 1999 created the Quality Growth Commission. The commission consists of:~~
+
+    >	~~(i)	the director of the Department of Natural Resources;
     > (ii)	the commissioner of the Department of Agriculture and Food;
     > (iii)	six elected officials at the local government level, three of whom may not be residents of a county of the first or second class; and
-    > (iv)	five persons from the profit and nonprofit private sector, two of whom may not be residents of a county of the first or second class and no more than three of whom may be from the same political party and one of whom shall be from the residential construction industry, nominated by the Utah Home Builders Association, and one of whom shall be from the real estate industry, nominated by the Utah Association of Realtors.
+    > (iv)	five persons from the profit and nonprofit private sector, two of whom may not be residents of a county of the first or second class and no more than three of whom may be from the same political party and one of whom shall be from the residential construction industry, nominated by the Utah Home Builders Association, and one of whom shall be from the real estate industry, nominated by the Utah Association of Realtors.~~
 
-    Its [mission](https://utahqualitygrowth.wordpress.com/about/) is:
+    ~~Its [mission](https://utahqualitygrowth.wordpress.com/about/) is:~~
 
-    >1 - To assist local governments with Quality Growth Planning
+    >~~1 - To assist local governments with Quality Growth Planning
     >2 - To advise the legislature and the Governor on growth management issues
-    >3 - To promote critical land conservation as part of responsible growth by administering the LeRay McAllister Critical Land Conservation program.
+    >3 - To promote critical land conservation as part of responsible growth by administering the LeRay McAllister Critical Land Conservation program.~~
 
-    As of yet, I have not been able to find how the Utah Quality Growth Commission or the State define "quality growth." The Quality Growth Act charges the commission with making
+    ~~As of yet, I have not been able to find how the Utah Quality Growth Commission or the State define "quality growth." The Quality Growth Act charges the commission with making~~
 
-    >recommendations to the Legislature on how to define more specifically quality growth areas within the general guidelines provided to the commission by the Legislature. (UT State Code 11-38-202)
+    >~~recommendations to the Legislature on how to define more specifically quality growth areas within the general guidelines provided to the commission by the Legislature. (UT State Code 11-38-202)~~
 
-    Those recommendations, it seems, are still forthcoming.
+    ~~Those recommendations, it seems, are still forthcoming.~~
+
+3.  In general, according to Evan Curtis, since most of Utah is public land, local communities prefer to maintain control over planning issues. He notes, however, that Utah is not a home rule state, and that the legislature could, in theory 
 
 ####  State Plan for Agriculture
 
@@ -45,7 +51,7 @@
 
 #### State Planning Goals Related to Agriculture
 
-**NO - NEED TO CONFIRM**
+**NO**
 
 1. Utah has created many programs that connect planning and agricultural issues. For example:
       - Local governments are required to harmonize comprehensive plans with agricultural protection areas (see below)
@@ -55,15 +61,15 @@
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
-**YES - NEED TO CONFIRM**
+**NO**
 
-1.  Section [11-38-203](https://le.utah.gov/xcode/Title11/Chapter38/11-38-S203.html) of Utah State Code - entitled "Commission may provide assistance to local entities" - provides that the Quality Growth Commission "may":
+1.  The Quality Growth Commission now focuses on the purchase of conservation easements, not planning issues (see below comment from Evan Curtis) ~~Section [11-38-203](https://le.utah.gov/xcode/Title11/Chapter38/11-38-S203.html) of Utah State Code - entitled "Commission may provide assistance to local entities" - provides that the Quality Growth Commission "may"~~:
 
-    > - (1)	from funds appropriated to the Governor's Office of Management and Budget by the Legislature for this purpose, **grant money to local entities to help them obtain the technical assistance** they need to:
-    >   - (a)	conduct workshops or public hearings or use other similar methods to obtain public input and participation in the process of identifying for that entity the principles of quality growth referred to in Subsection 11-38-202(1)(f);
-    >   - (b)	identify where and how quality growth areas could be established within the local entity; and
-    >   - (c)	**develop or modify the local entity's general plan to incorporate and implement the principles of quality growth** developed by the local entity and to establish quality growth areas; and
-    > - (2)	require each local entity to which the commission grants money under Subsection (1) to report to the commission, in a format and upon a timetable determined by the commission, on that local entity's process of developing quality growth principles and on the quality growth principles developed by that local entity.
+    > - (1)	~~from funds appropriated to the Governor's Office of Management and Budget by the Legislature for this purpose, **grant money to local entities to help them obtain the technical assistance** they need to~~:
+    >   - ~~(a)	conduct workshops or public hearings or use other similar methods to obtain public input and participation in the process of identifying for that entity the principles of quality growth referred to in Subsection 11-38-202(1)(f);~~
+    >   ~~- (b)	identify where and how quality growth areas could be established within the local entity; and~~
+    >   - (c)	~~**develop or modify the local entity's general plan to incorporate and implement the principles of quality growth** developed by the local entity and to establish quality growth areas~~; and
+    > - ~~(2)	require each local entity to which the commission grants money under Subsection (1) to report to the commission, in a format and upon a timetable determined by the commission, on that local entity's process of developing quality growth principles and on the quality growth principles developed by that local entity.~~
 
 2.  [The Land Use Academy of Utah (LUAU)](https://luau.utah.gov/) was:
 
@@ -71,23 +77,27 @@
 
     The Academy offers a range of resources, including technical publications and free workshops.
 
-#### State tracking of local plans
+3.  Utah Associations of Government (analogous to COGs) receive a small portion of their budget from state appropriations, but most of their funding comes from local or federal sources. AOGs sometimes provide technical support on comprehensive planning issues, but any state funding for comprehensive planning has been earmarked on an ad hoc basis. No ongoing program is available.
 
-**NO - NEED TO CONFIRM**
+#### State tracking of local plans
+**NO**
 
 1.  No online evidence suggests that a state entity track local plans, which is odd, considering that state law requires that municipalities/counties have a comprehensive plan. Strange to have a requirement with no enforcement/monitoring mechanism whatsoever. Will query state practitioners in questionnaire email.
-
-  TO DO: follow-up with Commission staff/board regarding the amount of money actually appropriated for technical assistance.
+2.  Evan Curtis, State Planning Coordinator, also expressed doubt that any state entity was tracking local plans. He was confident that most, if not all, local governments *had* plans, but also granted that some of these plans might not be up to date.
 
 #### State planning goals related to compact development/smart growth
 
-**YES**
+**NO**
 
 1.  Utah's goals related to smart growth are evinced by the enactment of the "Quality Growth Act" [(Utah State Law 11-38)](https://le.utah.gov/xcode/Title11/Chapter38/11-38.html). The Act created the state's [Quality Growth Commission](https://utahqualitygrowth.wordpress.com/) (see above for more info). Statute, unfortunately, does not define "quality growth," and the Commission has no regulatory power. Consequently, goals are squishy. Statute, does, however, does grant the commission the power to require a review process for any locality receiving technical assistance from the Commission:
 
     > The Commission may:
     > [...]
     >(2)	require each local entity to which the commission grants money under Subsection (1) to report to the commission, in a format and upon a timetable determined by the commission, on that local entity's process of developing quality growth principles and on the quality growth principles developed by that local entity.
+
+2. Although the Quality Growth Act might demonstrate a *former* commitment to "Quality Growth" the Commission is now less-well funded and focuses almost entirely on the purchase of conservation easements. From Evan Curtis, State Planning Coordinator:
+
+    > When the Quality Growth Act was passed, the Commission had significant funding and several individuals on staff to help fulfill this mission through developing tools, providing planning grants, and providing "quality growth principles" to help guide community development. In the past 15 years, staff support has decreased and the funding for planning assistance has not continued. Much of this work has since been picked up by Envision Utah and other entities in the state who continue to promote quality growth (perhaps similar to "smart growth" in many aspects, but with a Utah flavor). The Commission is still active, but the focus has shifted primarily to funding critical land conservation through the LeRay McAllister Critical Lands Conservation Fund as appropriated by the Legislature. This past Session, the Legislature appropriated $500,000 for this purpose.
 
 ---
 
@@ -118,7 +128,7 @@
 
 #### Require localities to address agricultural issues in their local plans
 
-**PARTIAL**
+**YES**
 
 1.  Statute suggests, but does not require, components of a comprehensive plan. UT State Code [10-9a-401 (2)(c)](https://le.utah.gov/xcode/Title10/Chapter9A/10-9a-S401.html?v=C10-9a-S401_1800010118000101) states that municipal plans **may** provide for:
     > - (c)	the efficient and economical use, conservation, and production of the supply of:
@@ -138,14 +148,16 @@
 
   The governing laws for agricultural protection areas are found in [Utah State Code Title 17 Chapter 41](https://le.utah.gov/xcode/Title17/Chapter41/17-41.html). More information about APA's can also be found at [http://www.utahagriculture.org](http://www.utahagriculture.org).
 
-4.  County general plans must contain "a resource management plan for public lands," which must address agriculture. Statute, however, does not specify requirements for addressing agriculture on private lands.
+4.  County general plans must contain "a resource management plan for public lands," which must address agriculture.
 
 #### Require localities to protect agricultural resources in their local plans
 
-**YES - Tentative**
+**YES**
 
-1.  Reference -  
-(ii)	avoid proposing a use of land within an agriculture protection area that is inconsistent with or detrimental to the use of the land for agriculture.
+1. As stated above, if an agricultural protection area exists within a municipality, then:
+
+  > - (c)	In drafting the land use element, the planning commission shall:
+  >   - (ii)	avoid proposing a use of land within an agriculture protection area that is inconsistent with or detrimental to the use of the land for agriculture.
 
 
 #### Require localities to support compact/efficient development in designated growth areas

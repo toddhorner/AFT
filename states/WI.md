@@ -20,11 +20,13 @@
 
 #### State Planning Goals Relate to Agriculture
 
+**NO**
+
 1.  Although state law requires local governments to include agricultural issues in comprehensive plans, neither statute nor administrative code defines proactive planning goals related to agriculture. Local governments are afforded discretion to determine their own goals.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
-**MAYBE? - DEPENDS ON THRESHOLD**
+**NO**
 
 1.  [From the Wisconsin Department of Administration](http://www.doa.state.wi.us/Divisions/Intergovernmental-Relations/Comprehensive-Planning/About-Comprehensive-Planning/):
     >The former Wisconsin Comprehensive Planning Grant Program financially assisted local governments in the development and adoption of comprehensive plans in the past. From 2000 through 2010, comprehensive planning grants were awarded to municipalities, counties, tribes, and regional planning commissions.
@@ -51,7 +53,7 @@
 
 #### State planning goals related to compact development/smart growth
 
-**NOT ANYMORE, IF EVER**
+**NO**
 
 1.  WI Statute 16.965 governs how the Department of Administration awards planning grants to municipalities. In evaluating applications, the law instructs the DOA to give preference to applications that include "planning efforts that identify smart growth areas." Statute 16.965 (1)(a) defines a smart growth area as:
 

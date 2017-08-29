@@ -6,7 +6,7 @@
 
 **NO**
 
-1.  Both Prof. Reece of Ohio State University and Kim Lieber of APA-OH wrote in e-mail correspondence that the state does not perform planning functions.
+1.  Both Prof. Reece of Ohio State University and Kim Lieber of APA-OH wrote in e-mail correspondence that the state does not perform planning functions. Brian Williams of the Mid-Ohio Regional Planning Commission concurs.
 2.  Online research corroborates their input. The only official government publication to offer guidance on comprehensive planning is ["Best Local Land Use Practices"](http://balancedgrowth.ohio.gov/BestLocalLandUsePractices/BestLocalLandUsePracticeChapters.aspx), authored by the [Ohio Balanced Growth Program](http://balancedgrowth.ohio.gov/Home.aspx). Ohio Balanced Growth is partnership between the Ohio Lake Erie Commission and the Ohio Water Resources Council. It encourages cross-jurisdictional coordination to manage watershed resources. It and its partner agencies provide technical support for the creation of Watershed Balanced Growth Plans:
 
     >A Watershed Balanced Growth Plan is a framework for coordinated, regional decision-making about how growth and conservation should be promoted by local and state policies and investments in the context of local watersheds. The process is voluntary, and the state offers incentives for participation. The Watershed Balanced Growth Plan provides for both economic development and water resource protection, and is meant to augment and harmonize with local comprehensive plans - not replace them. The Plans are presented to the appropriate local governing bodies possessing land use decision making authority and, if adopted by a significant Ohio Balanced Growth Strategy – 2011. Seven majority of local governments via resolution of support, are then presented to the state for review and endorsement.
@@ -22,7 +22,9 @@
     Ohio RPC's, however, are focused on transportation, not land use planning. Prof. Reece of Ohio State University writes:
     > Other than ODOT’s transportation funding, the state really does not engage much with the MPO’s. We are not a strong regional planning state.
 
+    Brian Williams, of MORPC writes:
 
+    >The Ohio Association of Regional Commissions facilitates extensive sharing of information and ideas among about 18 agencies – many of which are still largely limited to their initial role of transportation coordination for the distribution of federal funds. But most are interested in doing more to promote comprehensive planning. MORPC is the largest and most active of these agencies. OARC also is the statewide voice of planning agencies on legislative issues. **But the state does little to support or recognize these agencies, let alone fund their planning activities** [emphasis added].  The exceptions are in transportation: ODOT works closely with the agencies on transportation work, which increasingly looks at land-use factors, and has set up a program for metropolitan planning agencies to work as mentors for more-rural regional agencies.
 
 ####  State Plan for Agriculture
 
@@ -35,6 +37,9 @@
 **NO**
 
 1.  As stated above, the department of agriculture does not set forth planning goals related to agriculture. No other state entity has the mission or capacity to establish planning goals related to agriculture. Ohio Balanced Growth does address farmland preservation, as it relates to water resource stewardship, but only tangentially.
+2.  Also, regarding Ohio Balanced Growth, comments from Rachael Beeman, MORPC’s watershed and surface water point person:
+
+    >There’s a helpful report, conducted through ODOT, which essentially analyzed the efficacy of Balanced Growth Planning. Ohio is a volunteer based state that ran out of funding a while back. There’s no means to enforce any of the recommendations agreed upon in the plans. This makes it hard to understand the correlations, if there are any, between Balanced Growth Planning and recent land use and transportation related policies. I think the impact Balanced Growth has had is limited but important. It provided an opportunity to sit down with decision makers help them understand how development impacts the local eco-system. BGP really works in concert with other planning programs, and serves more as research materials/supporting documentation.
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
@@ -47,13 +52,14 @@
 
 **NO**
 
-1.  Both Prof. Reece and Kim Lieber both attested that the state does not tracking local plans. Online research bears out their input.
+1.  Both Prof. Reece and Kim Lieber both attested that the state does not tracking local plans. Online research bears out their input. Brian Williams also unaware of any effort.
 
 #### State planning goals related to compact development/smart growth
 
 **NO**
 
 1.  Ohio Balanced Growth perhaps represents the closest the state comes to establishing planning goals related to smart growth, but the goals are auxiliary to watershed conservation.
+2.  Brian Williams of MORPC does not know of any state planning goals related to smart growth.
 
 
 ---
