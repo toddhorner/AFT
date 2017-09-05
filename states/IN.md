@@ -29,17 +29,25 @@
 
 **NO**
 
+1.  Neither statute nor state agency policy establishes planning goals related to agriculture.
+
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
-**NO**
+**YES - With Community Development Block Grant dollars**
+
+1.  The Indiana Department of Rural and Community Affairs offers Planning Grants, funded by HUD's CDBG program, whose goal is to "encourage communities to plan for long-term community development." The program funds comprehensive plans, but also different types of plans, including, for example, economic development plans, stormwater plans, and historic preservation plans. CDBG-funded Planning Grants are awarded on a monthly-basis, and the maximum amount for a comprehensive plan is $40,000.
 
 #### State tracking of local plans
 
 **NO**
 
+1.  No evidence suggests that a state agency is tracking local plans. **Need to confirm with the Office of Community and Rural Affairs**
+
 #### State planning goals related to compact development/smart growth
 
 **NO**
+
+1.  Neither statute nor state agency policy establishes planning goals related to smart growth.
 
 ---
 
@@ -64,7 +72,8 @@ plans that are 20-30 years old.
 
 **NO**
 
-1.  A comprehensive plan **may** include an element that addressees "land utilization, including agriculture, forests, and other uses" (IC 36-7-503 (2)(P))
+1.  A comprehensive plan **may** include an element that addressees "land utilization, including agriculture, forests, and other uses" (IC 36-7-4-503 (2)(P))
+2.  The above element, however, is listed as a minimal technical requirement for Planning Grant funding.
 
 #### Require localities to protect agricultural resources in their local plans
 
@@ -75,3 +84,5 @@ plans that are 20-30 years old.
 #### Require localities to support compact/efficient development in designated growth areas
 
 **NO**
+
+2. Indiana Code 36-7-4-502 establishes mandatory components of a comprehensive plan and 36-7-4-503 establishes optional components. Neither section includes provisions regarding smart growth or urban growth boundaries.
