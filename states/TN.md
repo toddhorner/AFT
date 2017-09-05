@@ -85,7 +85,49 @@ Also, it's interesting to note that the Growth Policy Act's furtherance of smart
 
     > It is the function and duty of the commission to make and adopt an official general plan for the physical development of the municipality, including any area outside of its boundaries which, in the commission's judgment, bears relation to the planning of the municipality. (TN Code 13-4-201)
 
-3.  Although localities aren't required to adopt comprehensive plans, it should be noted that counties, through intergovernmental coordination commissions (see below), are required to adopt growth plans.
+3.  Although localities aren't required to adopt comprehensive plans, it should be noted that counties, through intergovernmental coordination commissions (see below), are required to adopt growth plans. Growth plans must include the following:
+
+    - **Urban Growth Boundaries (UGB)** - regions which contain the corporate limits of a municipality and the adjoining territory where growth is expected.
+    - **Planned Growth Areas (PGA)** - compact sections outside incorporated municipalities where growth is expected (if there are such areas in the county), and where new incorporations may occur.
+    - **Rural Areas (RA)** - territory not within 1 of the other 2 categories which is to be preserved for agriculture, recreation, forest, wildlife, and uses other than high-density commercial or residential development.
+
+4.  In more detail, statute defines the three growth plan components in the following manner:
+
+    - A growth plans's urban growth boundary "shall":
+      >- (1) (A)  Identify territory that is reasonably compact yet sufficiently large to accommodate residential and nonresidential growth projected to occur during the next twenty (20) years;
+      >
+      >- (B)  Identify territory that is contiguous to the existing boundaries of the municipality;
+      >
+      >- (C)  Identify territory that a reasonable and prudent person would project as the likely site of high density commercial, industrial and/or residential growth over the next twenty (20) years based on historical experience, economic trends, population growth patterns and topographical characteristics; if available, professional planning, engineering or economic studies, or any of these studies, may also be considered;
+      >
+      >-  (D)  Identify territory in which the municipality is better able and prepared than other municipalities to efficiently and effectively provide urban services; and
+      >
+      >-  (E)  Reflect the municipality's duty to facilitate full development of resources within the current boundaries of the municipality and to manage and control urban expansion outside of such current boundaries, taking into account the impact to agricultural lands, forests, recreational areas and wildlife management areas.
+      >
+      > - (2)  Before formally proposing urban growth boundaries to the coordinating committee, the municipality shall develop and report population growth projections; such projections shall be developed in conjunction with the University of Tennessee. The municipality shall also determine and report the current costs and the projected costs of core infrastructure, urban services and public facilities necessary to facilitate full development of resources within the current boundaries of the municipality and to expand such infrastructure, services and facilities throughout the territory under consideration for inclusion within the urban growth boundaries. The municipality shall also determine and report on the need for additional land suitable for high density, industrial, commercial and residential development, after taking into account all areas within the municipality's current boundaries that can be used, reused or redeveloped to meet such needs. The municipality shall examine and report on agricultural lands, forests, recreational areas and wildlife management areas within the territory under consideration for inclusion within the urban growth boundaries and shall examine and report on the likely long-term effects of urban expansion on such agricultural lands, forests, recreational areas and wildlife management areas.
+
+    - Each planned growth area of a county shall:
+      > - (A)  Identify territory that is reasonably compact yet sufficiently large to accommodate residential and nonresidential growth projected to occur during the next twenty (20) years;
+      >
+      > - (B)  Identify territory that is not within the existing boundaries of any municipality;
+      >
+      > - (C)  Identify territory that a reasonable and prudent person would project as the likely site of high or moderate density commercial, industrial and/or residential growth over the next twenty (20) years based on historical experience, economic trends, population growth patterns and topographical characteristics; (if available, professional planning, engineering and/or economic studies may also be considered);
+      >
+      > - (D)  Identify territory that is not contained within urban growth boundaries; and
+      >
+      > - (E)  Reflect the county's duty to manage natural resources and to manage and control urban growth, taking into account the impact to agricultural lands, forests, recreational areas and wildlife management areas.
+
+      Reporting similar to that require for urban growth boundaries is also required for planned growth areas.
+
+    - Each rural area shall:
+
+      > - (A)  Identify territory that is not within urban growth boundaries;
+      >
+      > - (B)  Identify territory that is not within a planned growth area;
+      >
+      > - (C)  Identify territory that, over the next twenty (20) years, is to be preserved as agricultural lands, forests, recreational areas, wildlife management areas or for uses other than high density commercial, industrial or residential development; and
+      >
+      > - (D)  Reflect the county's duty to manage growth and natural resources in a manner that reasonably minimizes detrimental impact to agricultural lands, forests, recreational areas and wildlife management areas.
 
 #### Require localities to address agricultural issues in their local plans
 
@@ -120,4 +162,4 @@ Also, it's interesting to note that the Growth Policy Act's furtherance of smart
 
     The Coordinating Committee is charged with developing and adopting a Growth Plan, which shall
 
-    >identify urban growth boundaries for each municipality within the county and shall identify planned growth areas and rural areas within the county (TN Code 6-58-104 (a)(2)).
+    >identify urban growth boundaries for each municipality within the county and shall identify planned growth areas and rural areas within the county (TN Code 6-58-104 (a)(2)). See above for more details.

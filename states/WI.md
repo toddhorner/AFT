@@ -12,6 +12,8 @@
 
 2.  The Division has published guides on comprehensive planning issues. Funding for technical assistance, however, has diminished in recent years (see below).
 
+3.  The Wisconsin Department of Agriculture, Trade, and Consumer Protection (DATCP) administers the Farmland Preservation Plan program, certifying approved plans, as well as tracking plan adoption and updates.
+
 ####  State Plan for Agriculture
 
 **NO**
@@ -49,6 +51,10 @@
  >  * Answering common questions about comprehensive planning from land owners, local officials, and planning agencies
 
  2. The DOA offers a list of adopted plans online at: [http://www.doa.state.wi.us/Divisions/Intergovernmental-Relations/Comprehensive-Planning](http://www.doa.state.wi.us/Divisions/Intergovernmental-Relations/Comprehensive-Planning)
+
+ 3. DATCP tracks the adoption of farmland preservation plans, as depicted on the map below. Orange areas represent Agricultural Enterprise Areas, while light blue represents county farmland protection plan coverage areas and dark blue show town plan coverage areas.
+
+ ![](assets/WI-042e2.png)
 
 
 #### State planning goals related to compact development/smart growth
@@ -99,6 +105,9 @@ However, as stated above, no planning grants have been awarded since 2010, and t
     > * 8. Key land use issues related to preserving farmland and to promoting agricultural development and plans for addressing those issues.
 
 5.  If a county has a comprehensive plan, then its farmland preservation plan must be included in its comprehensive plan (WI Stat. 91.10 (2))
+
+6.  Farmland Preservation Plans form the basis for Wisconsin's farmland protection program. Counties must adopt a Farmland Preservation Plan in order to enact an agricultural zoning ordinance, create agricultural enterprise areas, and participate in PACE.
+  ![](assets/WI-bf548.png)
 
 
 #### Require localities to address agricultural issues in their local plans
