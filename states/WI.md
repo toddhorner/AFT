@@ -28,7 +28,7 @@
 
 #### State provides grants or technical assistance to support development of local comprehensive plans or farmland protection plans.
 
-**NO**
+**YES**
 
 1.  [From the Wisconsin Department of Administration](http://www.doa.state.wi.us/Divisions/Intergovernmental-Relations/Comprehensive-Planning/About-Comprehensive-Planning/):
     >The former Wisconsin Comprehensive Planning Grant Program financially assisted local governments in the development and adoption of comprehensive plans in the past. From 2000 through 2010, comprehensive planning grants were awarded to municipalities, counties, tribes, and regional planning commissions.
@@ -38,6 +38,9 @@
     Also, see below for a note on the minimal amount of time the Wisconsin Land Information Program grant administrator is able to dedicate towards technical assistance.
 
 2.  The Wisconsin Department of Agriculture and UW Cooperative extension [published a guide](http://www.doa.state.wi.us/Documents/DIR/Comprehensive%20Planning/Element-Guides/Ag-Guide.pdf) (in 2002) on the relationship between agricultural issues and the comprehensive planning process.
+
+3.  Although funds are no longer available for comprehensive plans, planning grants are still available for farmland preservation plan. According to the most recent Dept. of Ag Farmland Preservation Plan biennial update (2013-2015):
+    >Counties continue to take advantage of planning grants available under chapter 91. These grants assist counties in preparing a farmland preservation plan by reimbursing a county for up to 50 percent (but no more than \$30,000) of the costs of preparing a farmland preservation plan. In rounds three and four of the planning grant allocation the department awarded \$701,878 to 32 counties.
 
 #### State tracking of local plans
 
