@@ -51,11 +51,13 @@
 
 **NO**
 
-1.  Require components of a municipal master plan do not include agriculture (Alabama Code 11-52-8).
+1.  Required components of a municipal master plan do not include agriculture (Alabama Code 11-52-8).
 
 #### Require localities to protect agricultural resources in their local plans
 
 **NO**
+
+1.  See above.
 
 #### Require localities to support compact/efficient development in designated growth areas
 
